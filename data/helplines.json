@@ -1,0 +1,466 @@
+{
+  "version": "2.0.0",
+  "last_updated": "2026-05-08",
+  "country": "Pakistan",
+  "primary_region_key": "pakistan",
+  "category_priorities": {
+    "emergency": 1,
+    "disaster": 2,
+    "medical": 3,
+    "fire": 4,
+    "police": 5,
+    "gas": 6,
+    "utility": 7,
+    "weather": 8,
+    "flood": 9,
+    "women_safety": 10,
+    "child_safety": 11,
+    "mental_health": 12
+  },
+  "regions": {
+    "pakistan": {
+      "country": "Pakistan",
+      "emergency_number": "1122",
+      "alt_emergency_number": "115",
+      "helplines": [
+        {
+          "name": "Rescue 1122",
+          "number": "1122",
+          "description": "Punjab/KPK Emergency Service — Rescue, Medical, Fire (also operates in parts of Sindh, Balochistan, AJK, GB)",
+          "available_24x7": true,
+          "category": "emergency",
+          "is_emergency_dispatch": true,
+          "verified_at": "2026-05-08"
+        },
+        {
+          "name": "Edhi Foundation",
+          "number": "115",
+          "description": "Nationwide ambulance & rescue (also operates morgue & shelter network)",
+          "available_24x7": true,
+          "category": "emergency",
+          "is_emergency_dispatch": true,
+          "verified_at": "2026-05-08"
+        },
+        {
+          "name": "Police Emergency",
+          "number": "15",
+          "description": "Nationwide police emergency",
+          "available_24x7": true,
+          "category": "police",
+          "is_emergency_dispatch": true,
+          "verified_at": "2026-05-08"
+        },
+        {
+          "name": "Fire Brigade",
+          "number": "16",
+          "description": "Fire emergency services (in supported cities)",
+          "available_24x7": true,
+          "category": "fire",
+          "is_emergency_dispatch": true,
+          "verified_at": "2026-05-08"
+        },
+        {
+          "name": "Bomb Disposal Squad",
+          "number": "1717",
+          "description": "Suspected explosive / IED reporting",
+          "available_24x7": true,
+          "category": "police",
+          "is_emergency_dispatch": false,
+          "verified_at": "2026-05-08"
+        },
+        {
+          "name": "Motorway Police",
+          "number": "130",
+          "description": "National Highways & Motorway Police",
+          "available_24x7": true,
+          "category": "police",
+          "is_emergency_dispatch": false,
+          "verified_at": "2026-05-08"
+        },
+        {
+          "name": "Madadgar Child Helpline",
+          "number": "1098",
+          "description": "Child protection — abuse, neglect, missing children",
+          "available_24x7": true,
+          "category": "child_safety",
+          "is_emergency_dispatch": false,
+          "verified_at": "2026-05-08"
+        },
+        {
+          "name": "Women Helpline",
+          "number": "1099",
+          "description": "Ministry of Human Rights — women in distress",
+          "available_24x7": true,
+          "category": "women_safety",
+          "is_emergency_dispatch": false,
+          "verified_at": "2026-05-08"
+        },
+        {
+          "name": "NDMA Helpline",
+          "number": "051-9205037",
+          "description": "National Disaster Management Authority",
+          "available_24x7": true,
+          "category": "disaster",
+          "is_emergency_dispatch": false,
+          "verified_at": "2026-05-08"
+        },
+        {
+          "name": "Pakistan Meteorological Department",
+          "number": "051-9250368",
+          "description": "Weather alerts and flood warnings",
+          "available_24x7": true,
+          "category": "weather",
+          "is_emergency_dispatch": false,
+          "verified_at": "2026-05-08"
+        },
+        {
+          "name": "Flood Forecasting Division",
+          "number": "042-99200296",
+          "description": "PMD — flood forecasting and early warning",
+          "available_24x7": true,
+          "category": "flood",
+          "is_emergency_dispatch": false,
+          "verified_at": "2026-05-08"
+        },
+        {
+          "name": "Sui Gas Emergency (SSGC/SNGPL)",
+          "number": "1199",
+          "description": "Gas leak / pipeline emergency",
+          "available_24x7": true,
+          "category": "gas",
+          "is_emergency_dispatch": false,
+          "verified_at": "2026-05-08"
+        },
+        {
+          "name": "WAPDA Emergency",
+          "number": "118",
+          "description": "Water and Power Development Authority — power emergencies",
+          "available_24x7": true,
+          "category": "utility",
+          "is_emergency_dispatch": false,
+          "verified_at": "2026-05-08"
+        },
+        {
+          "name": "Pakistan Red Crescent",
+          "number": "051-9250404",
+          "description": "Disaster relief, blood, first aid",
+          "available_24x7": true,
+          "category": "disaster",
+          "is_emergency_dispatch": false,
+          "verified_at": "2026-05-08"
+        },
+        {
+          "name": "Aman Ambulance",
+          "number": "1021",
+          "description": "Aman Foundation ambulance — Karachi & several cities",
+          "available_24x7": true,
+          "category": "medical",
+          "is_emergency_dispatch": true,
+          "verified_at": "2026-05-08"
+        },
+        {
+          "name": "Chhipa Welfare Ambulance",
+          "number": "1020",
+          "description": "Chhipa ambulance & rescue — Karachi & nationwide",
+          "available_24x7": true,
+          "category": "medical",
+          "is_emergency_dispatch": true,
+          "verified_at": "2026-05-08"
+        },
+        {
+          "name": "JDC Foundation",
+          "number": "0311-1112400",
+          "description": "JDC ambulance & welfare — Karachi",
+          "available_24x7": true,
+          "category": "medical",
+          "is_emergency_dispatch": true,
+          "verified_at": "2026-05-08"
+        },
+        {
+          "name": "Aga Khan University Hospital (Karachi)",
+          "number": "021-111-911-911",
+          "description": "AKUH 24/7 emergency",
+          "available_24x7": true,
+          "category": "medical",
+          "is_emergency_dispatch": true,
+          "verified_at": "2026-05-08"
+        },
+        {
+          "name": "Shaukat Khanum Hospital (Lahore)",
+          "number": "042-35905000",
+          "description": "Shaukat Khanum emergency line",
+          "available_24x7": true,
+          "category": "medical",
+          "is_emergency_dispatch": true,
+          "verified_at": "2026-05-08"
+        },
+        {
+          "name": "Rozan Counseling (Mental Health)",
+          "number": "0304-111-1741",
+          "description": "Free counselling helpline — psychosocial support, depression, trauma, post-disaster anxiety",
+          "available_24x7": false,
+          "category": "mental_health",
+          "is_emergency_dispatch": false,
+          "verified_at": "2026-05-08"
+        },
+        {
+          "name": "Umang Helpline (Mental Health)",
+          "number": "0311-7786264",
+          "description": "Pakistan's first 24/7 mental-health helpline (clinical psychologists). NOT for actively suicidal cases — for immediate suicide-risk cases call 115.",
+          "available_24x7": true,
+          "category": "mental_health",
+          "is_emergency_dispatch": false,
+          "verified_at": "2026-05-08"
+        },
+        {
+          "name": "Indus Hospital (Karachi)",
+          "number": "021-111-111-880",
+          "description": "Indus Hospital — 24/7 emergency, free trauma care",
+          "available_24x7": true,
+          "category": "medical",
+          "is_emergency_dispatch": true,
+          "verified_at": "2026-05-08"
+        },
+        {
+          "name": "Shifa International Hospital (Islamabad)",
+          "number": "051-846-4646",
+          "description": "Shifa 24/7 emergency",
+          "available_24x7": true,
+          "category": "medical",
+          "is_emergency_dispatch": true,
+          "verified_at": "2026-05-08"
+        },
+        {
+          "name": "CMH Lahore",
+          "number": "042-111-130-130",
+          "description": "Combined Military Hospital Lahore — 24/7 emergency",
+          "available_24x7": true,
+          "category": "medical",
+          "is_emergency_dispatch": true,
+          "verified_at": "2026-05-08"
+        },
+        {
+          "name": "Lady Reading Hospital (Peshawar)",
+          "number": "091-921-1490",
+          "description": "LRH Peshawar — KPK's largest tertiary trauma centre",
+          "available_24x7": true,
+          "category": "medical",
+          "is_emergency_dispatch": true,
+          "verified_at": "2026-05-08"
+        }
+      ],
+      "provinces": {
+        "punjab": {
+          "label": "Punjab",
+          "pdma": {
+            "name": "PDMA Punjab",
+            "number": "042-99205316",
+            "description": "Provincial Disaster Management Authority — Punjab",
+            "category": "disaster",
+            "is_emergency_dispatch": false,
+            "verified_at": "2026-05-08"
+          },
+          "rescue": "1122",
+          "major_cities": [
+            "lahore",
+            "faisalabad",
+            "rawalpindi",
+            "multan",
+            "gujranwala",
+            "sialkot",
+            "bahawalpur",
+            "sargodha",
+            "sheikhupura",
+            "rahim yar khan",
+            "jhang",
+            "kasur",
+            "okara",
+            "sahiwal",
+            "wah cantt",
+            "dera ghazi khan",
+            "gujrat",
+            "chakwal",
+            "attock",
+            "jhelum",
+            "mandi bahauddin",
+            "mianwali",
+            "khanewal"
+          ]
+        },
+        "sindh": {
+          "label": "Sindh",
+          "pdma": {
+            "name": "PDMA Sindh",
+            "number": "021-99211530",
+            "description": "Provincial Disaster Management Authority — Sindh",
+            "category": "disaster",
+            "is_emergency_dispatch": false,
+            "verified_at": "2026-05-08"
+          },
+          "rescue": "1021",
+          "major_cities": [
+            "karachi",
+            "hyderabad",
+            "sukkur",
+            "larkana",
+            "mirpur khas",
+            "nawabshah",
+            "shaheed benazirabad",
+            "khairpur",
+            "jacobabad",
+            "shikarpur",
+            "dadu",
+            "thatta",
+            "badin",
+            "tando allahyar",
+            "tando adam",
+            "umerkot",
+            "ghotki"
+          ]
+        },
+        "kpk": {
+          "label": "Khyber Pakhtunkhwa",
+          "pdma": {
+            "name": "PDMA KPK",
+            "number": "091-9212689",
+            "description": "Provincial Disaster Management Authority — KPK",
+            "category": "disaster",
+            "is_emergency_dispatch": false,
+            "verified_at": "2026-05-08"
+          },
+          "rescue": "1122",
+          "major_cities": [
+            "peshawar",
+            "mardan",
+            "abbottabad",
+            "swabi",
+            "kohat",
+            "mansehra",
+            "swat",
+            "mingora",
+            "chitral",
+            "bannu",
+            "nowshera",
+            "dera ismail khan",
+            "haripur",
+            "charsadda",
+            "battagram",
+            "dir",
+            "shangla",
+            "buner",
+            "tank"
+          ]
+        },
+        "balochistan": {
+          "label": "Balochistan",
+          "pdma": {
+            "name": "PDMA Balochistan",
+            "number": "081-9202186",
+            "description": "Provincial Disaster Management Authority — Balochistan",
+            "category": "disaster",
+            "is_emergency_dispatch": false,
+            "verified_at": "2026-05-08"
+          },
+          "rescue": "1122",
+          "major_cities": [
+            "quetta",
+            "gwadar",
+            "turbat",
+            "khuzdar",
+            "hub",
+            "chaman",
+            "zhob",
+            "dera bugti",
+            "loralai",
+            "lasbela",
+            "mastung",
+            "qila saifullah",
+            "noshki"
+          ]
+        },
+        "gilgit_baltistan": {
+          "label": "Gilgit-Baltistan",
+          "pdma": {
+            "name": "GB-DMA",
+            "number": "05811-920234",
+            "description": "GB Disaster Management Authority — earthquake & landslide-prone region",
+            "category": "disaster",
+            "is_emergency_dispatch": false,
+            "verified_at": "2026-05-08"
+          },
+          "rescue": "1122",
+          "major_cities": [
+            "gilgit",
+            "skardu",
+            "hunza",
+            "chilas",
+            "ghizer",
+            "astore",
+            "shigar",
+            "kharmang",
+            "ghanche",
+            "diamer"
+          ]
+        },
+        "ajk": {
+          "label": "Azad Jammu & Kashmir",
+          "pdma": {
+            "name": "SDMA AJK",
+            "number": "05822-920312",
+            "description": "AJK State Disaster Management Authority — earthquake-prone region",
+            "category": "disaster",
+            "is_emergency_dispatch": false,
+            "verified_at": "2026-05-08"
+          },
+          "rescue": "1122",
+          "major_cities": [
+            "muzaffarabad",
+            "mirpur",
+            "kotli",
+            "rawalakot",
+            "bhimber",
+            "bagh",
+            "neelum",
+            "haveli",
+            "sudhanoti"
+          ]
+        },
+        "islamabad": {
+          "label": "Islamabad Capital Territory",
+          "pdma": {
+            "name": "ICT Disaster Management Cell",
+            "number": "051-9205037",
+            "description": "Federal capital — coordinates with NDMA",
+            "category": "disaster",
+            "is_emergency_dispatch": false,
+            "verified_at": "2026-05-08"
+          },
+          "rescue": "1122",
+          "major_cities": [
+            "islamabad"
+          ]
+        }
+      }
+    }
+  },
+  "aliases": {
+    "default": "pakistan",
+    "pk": "pakistan",
+    "pakistani": "pakistan"
+  },
+  "quick_reference": {
+    "pakistan": {
+      "primary_emergency": "1122 / 115",
+      "police": "15",
+      "fire": "16",
+      "ambulance": "115 / 1021 / 1020",
+      "disaster": "051-9205037 (NDMA)",
+      "flood_warning": "042-99200296",
+      "gas_leak": "1199",
+      "power": "118",
+      "child": "1098",
+      "women": "1099",
+      "bomb_disposal": "1717"
+    }
+  }
+}

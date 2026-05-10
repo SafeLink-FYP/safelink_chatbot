@@ -1,0 +1,50 @@
+# SafeLink Safety Chatbot — Python Dependencies
+# Pinned for stable Railway deployment (Python 3.11)
+# Install: pip install -r requirements.txt
+
+# Web Framework
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+pydantic-settings==2.5.2
+
+# HTTP client (used in tests / health probes)
+httpx==0.27.2
+
+# NLP & ML — keyword + TF-IDF retrieval (no embeddings required)
+scikit-learn==1.5.2
+numpy==1.26.4
+joblib==1.4.2
+
+# Utilities
+python-multipart==0.0.10
+python-dotenv==1.0.1
+
+# Rate limiting (per-IP, slowapi -- depends on limits)
+slowapi==0.1.9
+
+# LLM clients (Phase 3 hybrid). USE_LLM=false in prod by default; these are
+# imported lazily inside services/llm_service.py so a lightweight build can
+# skip the install if needed.
+google-generativeai==0.8.3
+# groq 0.11.0 conflicts with httpx 0.28+ (Client.__init__ proxies kwarg
+# removed). 1.2.0 is the smallest version compatible with the pinned httpx.
+groq>=1.2.0,<2.0.0
+sse-starlette==2.1.3
+
+# ── OPTIONAL — uncomment if you want semantic-embedding retrieval ────────────
+# Adds ~500 MB memory + ~100 MB download. Likely too heavy for Railway free tier.
+# sentence-transformers==2.7.0
+
+# ── OPTIONAL — uncomment for richer NER ──────────────────────────────────────
+# After install: python -m spacy download en_core_web_sm
+# spacy==3.7.6
+
+# ── OPTIONAL — Database / cache (currently unused) ───────────────────────────
+# sqlalchemy==2.0.35
+# asyncpg==0.30.0
+# redis==5.1.1
+
+# Development
+pytest==8.3.3
+pytest-asyncio==0.24.0

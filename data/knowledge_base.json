@@ -1,0 +1,1328 @@
+{
+  "version": "2.0.0",
+  "updated_at": "2026-05-08",
+  "entries": [
+    {
+      "id": "earthquake_during_1",
+      "disaster_type": "earthquake",
+      "phase": "during",
+      "title": "Earthquake Safety — During the Shaking",
+      "content": "**DROP, COVER, and HOLD ON!**\n\n1. **DROP** to your hands and knees immediately\n2. **COVER** your head and neck under a sturdy desk or table\n3. **HOLD ON** until the shaking stops\n\n**If Indoors:**\n- Stay inside — don't run outside during shaking; falling debris in narrow lanes is the biggest killer\n- Stay away from windows, outside walls, and anything heavy that could topple (almirahs, TVs)\n- If no shelter is available, crouch near an interior wall and protect your head\n\n**If Outdoors:**\n- Move to a clear area away from buildings, electricity poles, billboards, and trees\n- Drop to the ground and protect your head\n\n**If in a Vehicle:**\n- Pull over safely and stop\n- Stay inside with your seatbelt fastened\n- Avoid stopping near buildings, overpasses, flyovers, or power lines\n\n**Do NOT:**\n- Run outside during shaking\n- Stand in doorways (Pakistani RCC frame doorways are NOT inherently safer)\n- Use elevators\n\n**Emergency Contacts:**\n- Rescue 1122\n- Edhi: 115",
+      "searchable_text": "earthquake what to do during earthquake safety drop cover hold shaking tremor seismic indoors outdoors vehicle",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": null
+        },
+        {
+          "name": "USGS public guidance",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-04-01",
+      "disclaimer": false
+    },
+    {
+      "id": "earthquake_before_1",
+      "disaster_type": "earthquake",
+      "phase": "before",
+      "title": "Earthquake Preparedness",
+      "content": "**Prepare Before an Earthquake**\n\n**1. Create an Emergency Kit:**\n- Water (4 litres per person per day for 3 days)\n- Non-perishable food (biscuits, dry fruits, dates, sealed packs)\n- First aid kit + 7-day supply of regular medications\n- Flashlight + spare batteries\n- Power bank (fully charged)\n- Whistle\n- N95 / dust masks (post-collapse air is full of concrete dust)\n- Cash in small notes (ATMs may be down)\n- CNIC and important documents in a waterproof bag\n\n**2. Secure Your Home:**\n- Anchor heavy almirahs / shelves to walls\n- Keep heavy items on lower shelves\n- Know how to turn off the gas main valve\n- Get older / unreinforced buildings inspected — Pakistan's older bricks-and-mortar (RCC unreinforced) houses are vulnerable\n\n**3. Make a Family Plan:**\n- Identify safe spots in each room (under sturdy table; against interior wall)\n- Practice **DROP, COVER, HOLD ON** — especially with children\n- Pick a family meeting point outside the house\n- Save emergency contacts: **1122**, **115**, your nearest hospital, two relatives in different cities\n\n**4. Know Your Risk Zone:**\n- Northern Pakistan (GB, KPK, AJK, northern Punjab) sits on the Hindukush–Himalayan collision zone\n- Karachi region near offshore Makran subduction zone\n- Quetta–Chaman fault active in Balochistan",
+      "searchable_text": "earthquake prepare before preparedness kit supplies secure home family plan",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-04-01",
+      "disclaimer": false
+    },
+    {
+      "id": "earthquake_after_1",
+      "disaster_type": "earthquake",
+      "phase": "after",
+      "title": "After an Earthquake",
+      "content": "**After the Earthquake**\n\n**1. Check for Injuries:**\n- Provide first aid if trained\n- Don't move seriously injured people unless in immediate danger (fire, gas leak, structural collapse)\n- Call **1122** or **115** for ambulance\n\n**2. Expect Aftershocks**\n- Be ready to **DROP, COVER, HOLD ON** again\n- Aftershocks can be strong enough to bring down already-weakened structures\n\n**3. Inspect Your Home Before Re-entering:**\n- Look for visible structural damage (cracks in load-bearing walls, sloping floors)\n- Check for gas smell — if detected, **DO NOT** light matches/switches; turn off main valve and leave\n- Check for electrical damage — sparks, burning smell\n- Check water lines\n\n**4. Stay Informed:**\n- Listen to PTV / FM radio for updates\n- Follow NDMA / your provincial PDMA on social media\n\n**5. Avoid:**\n- Damaged buildings (entire neighbourhoods declared unsafe in 2005 Kashmir & 2013 Awaran quakes)\n- Downed power lines\n- Areas near rivers and dams (aftershocks may cause secondary flooding)\n\n**6. Document and Report Damage** to your district disaster management cell.",
+      "searchable_text": "earthquake after aftershock safety check damage gas leak water power inspection",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-04-01",
+      "disclaimer": false
+    },
+    {
+      "id": "earthquake_zones_pk",
+      "disaster_type": "earthquake",
+      "phase": "general",
+      "title": "Earthquake Risk Zones in Pakistan",
+      "content": "**Pakistan's Earthquake Risk Profile**\n\nPakistan sits at the meeting point of the Indian, Eurasian, and Arabian tectonic plates. Major fault systems:\n\n**1. Hindukush–Himalayan Frontal Thrust (Northern Pakistan)**\n- Affects: Gilgit-Baltistan, Chitral, AJK, Hazara division of KPK, northern Punjab\n- Major events: 2005 Kashmir quake (M7.6, ~80,000 deaths), 2015 Hindukush quake\n\n**2. Chaman Fault System (Balochistan & Khyber)**\n- Affects: Quetta, Chaman, Loralai, Zhob, Bannu, Dera Ismail Khan\n- Major events: 1935 Quetta earthquake (M7.7); 2013 Awaran (M7.7)\n\n**3. Makran Subduction Zone (Coastal Balochistan/Sindh)**\n- Tsunami risk for Karachi, Gwadar, Jiwani, Pasni\n- Major event: 1945 Makran tsunami\n\n**4. Salt Range / Surghar Range (Northern Punjab)**\n- Lower magnitude but felt in Islamabad, Rawalpindi, Attock\n\n**Building Codes:**\n- BCP 2007 / 2021 (Building Code of Pakistan) requires seismic-resistant design\n- Most older urban housing predates these codes\n- DROP, COVER, HOLD ON works regardless of building age\n\nKnow your local risk and have your kit ready.",
+      "searchable_text": "earthquake zones risk areas fault line seismic hindukush chaman makran salt range",
+      "sources": [
+        {
+          "name": "Geological Survey of Pakistan",
+          "url": null
+        },
+        {
+          "name": "NDMA",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-04-01",
+      "disclaimer": false
+    },
+    {
+      "id": "flood_during_1",
+      "disaster_type": "flood",
+      "phase": "during",
+      "title": "Flood Safety — During Flooding",
+      "content": "**During a Flood**\n\n**1. Move to higher ground immediately** if flooding is imminent\n- Don't wait for instructions if you see rising water — Pakistani 2010, 2022 floods rose meters in hours\n- Head to multi-storey buildings, rooftops, embankments, raised roads\n\n**2. Never walk, swim, or drive through flood waters**\n- Just **15 cm** of moving water can knock an adult down\n- **60 cm** can sweep a car\n- Flood water in Pakistan is typically contaminated with sewage, chemicals, and dead livestock\n\n**3. If Trapped in a Building:**\n- Move to the highest floor, then the roof if needed\n- Signal for help with bright cloth, flashlight, or by tapping on metal\n- Call: **1122** / **115** / NDMA **051-9205037**\n\n**4. If Trapped in a Vehicle:**\n- Abandon the vehicle if water is rising — it can be swept away within seconds\n- Move to higher ground immediately\n\n**5. Stay Away From:**\n- Flood waters (contaminated, debris, snakes displaced from fields)\n- Downed power lines (electrocution risk in standing water)\n- Riverbanks, embankments, drainage channels — they can collapse\n- Damaged bridges and culverts\n\n**Emergency Contacts:**\n- Rescue: **1122**\n- Edhi Ambulance: **115**\n- NDMA: **051-9205037**\n- Flood Forecasting Division: **042-99200296**",
+      "searchable_text": "flood during flooding safety higher ground water rising trapped vehicle",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": null
+        },
+        {
+          "name": "Flood Forecasting Division",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-04-01",
+      "disclaimer": false
+    },
+    {
+      "id": "flood_before_1",
+      "disaster_type": "flood",
+      "phase": "before",
+      "title": "Flood Preparedness",
+      "content": "**Prepare for Floods (Pakistan-specific)**\n\n**1. Know Your Flood Risk:**\n- River-flooding zones: Indus, Chenab, Jhelum, Ravi, Sutlej, Kabul\n- Urban inundation: Karachi (most of the city drains poorly), Lahore, Rawalpindi, Hyderabad\n- Flash-flood zones: GB, AJK, hill torrents in DG Khan, southern KPK\n- Monitor PMD (pmd.gov.pk) and Flood Forecasting Division alerts during monsoon (July–September)\n\n**2. Prepare an Emergency Kit:**\n- Water and food for 3+ days (longer in rural / cut-off areas)\n- Medications (1 month if available — supply chains break)\n- CNIC, property documents, deeds in **waterproof zip bags**\n- Flashlight, batteries, transistor radio\n- Power bank (fully charged) + spare phone charger\n- Cash in small notes — ATMs may be down for days\n- Iodine tablets / chlorine drops for water purification\n- Mosquito repellent (post-flood vector outbreaks are common)\n\n**3. Protect Your Home:**\n- Move valuables, beds, electronics to upper floors / higher shelves\n- Store important documents in waterproof container\n- Clear roof drains and gutters before monsoon season\n- If you have livestock, identify high-ground tethering before heavy rain\n\n**4. Family Plan:**\n- Agree on evacuation routes and a meeting point\n- Identify the nearest pucca (multi-storey) building\n- Save emergency contacts: **1122**, **115**, NDMA, your provincial PDMA\n\n**5. Sign Up for Alerts:**\n- Follow PMD, NDMA, your PDMA on Twitter/Facebook\n- District administration usually announces evacuation orders via mosque loudspeakers in rural areas",
+      "searchable_text": "flood prepare before preparedness kit evacuation plan monsoon protect home indus chenab",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": null
+        },
+        {
+          "name": "PMD Flood Forecasting Division",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-04-01",
+      "disclaimer": false
+    },
+    {
+      "id": "flood_after_1",
+      "disaster_type": "flood",
+      "phase": "after",
+      "title": "After a Flood",
+      "content": "**After the Flood**\n\n**1. Return Home Only When Authorities Say It's Safe**\n- Listen to district administration / PDMA announcements\n\n**2. Before Entering Your Home:**\n- Check for visible structural damage — wet mud-brick walls collapse silently\n- Watch for snakes, scorpions, and stray animals displaced by the flood\n- Check for gas leaks (smell) — turn off main valve before entering\n- Inspect electrical wiring; turn off main breaker until inspected\n\n**3. Clean and Disinfect:**\n- Everything touched by flood water is contaminated\n- Discard food that contacted flood water\n- Boil water for at least 5 minutes before drinking, OR use water purification tablets\n- Clean surfaces with bleach (1 cup bleach per 4 litres of water)\n\n**4. Health Precautions:**\n- Don't drink tap/well water until declared safe\n- Wash hands frequently with soap\n- Watch for waterborne diseases: diarrhoea, cholera, typhoid, hepatitis A/E\n- Watch for vector-borne diseases: malaria, dengue (post-flood mosquito boom)\n- Get medical help at the first sign of fever, vomiting, or diarrhoea — children dehydrate rapidly\n\n**5. Document Damage:**\n- Take photos for insurance and government relief claims\n- Report to district administration / PDMA\n- BISP / Ehsaas often opens emergency support windows for affected families\n\n**Seek Medical Help At:**\n- Government hospitals (free emergency care)\n- Pakistan Red Crescent medical camps\n- NGO field hospitals (Edhi, Chhipa, JDC)",
+      "searchable_text": "flood after safety return home clean disinfect contaminated water damage cholera dengue",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": null
+        },
+        {
+          "name": "Ministry of Health",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-04-01",
+      "disclaimer": false
+    },
+    {
+      "id": "flood_urban_1",
+      "disaster_type": "flood",
+      "phase": "general",
+      "title": "Urban Flooding (Karachi, Lahore, Rawalpindi)",
+      "content": "**Urban Flooding in Pakistani Cities**\n\nMajor Pakistani cities have suffered repeated urban floods due to inadequate drainage, encroached nullahs, and choked storm-water systems.\n\n**Karachi:** Almost every monsoon brings widespread flooding (notably 2020). High-risk areas include DHA, Saddar, Korangi, Liaquatabad, and roads adjacent to nullahs.\n\n**Lahore:** Internal flooding around Lakshmi Chowk, Mall Road, Multan Road during heavy rain.\n\n**Rawalpindi/Islamabad:** Nullah Lai overflows after intense storms, affecting low-lying parts of Pindi.\n\n**During Urban Flooding:**\n- Avoid driving — most car-related flood deaths happen in cities\n- Watch for **open manholes** (covers wash away)\n- Avoid standing water near electricity poles / KE/LESCO transformers — electrocution risk\n- Don't enter underpasses (Liaquat Underpass etc. fill rapidly)\n\n**During Heavy Rain:**\n- Stay home if possible — most office attendance is excused on heavy-rain days in metros\n- If commuting, use raised main roads; avoid narrow streets\n- Charge phones, fill water containers (supply often disrupted)\n\n**Helplines:**\n- KMC / DMC complaint cells (Karachi)\n- WASA Lahore: 1334\n- KE (electricity outage in Karachi): 118",
+      "searchable_text": "urban flooding karachi lahore rawalpindi nullah monsoon city flood drainage",
+      "sources": [
+        {
+          "name": "PDMA Sindh",
+          "url": null
+        },
+        {
+          "name": "PDMA Punjab",
+          "url": null
+        },
+        {
+          "name": "municipal advisories",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-04-01",
+      "disclaimer": false
+    },
+    {
+      "id": "flood_flash_1",
+      "disaster_type": "flood",
+      "phase": "general",
+      "title": "Flash Floods (GB, AJK, Hill Torrents)",
+      "content": "**Flash Floods**\n\nFlash floods rise rapidly with little warning — often from heavy rain in mountainous areas, GLOFs (Glacial Lake Outburst Floods) in Gilgit-Baltistan, or hill-torrent runoff in DG Khan / Rajanpur / Suleiman range.\n\n**Warning Signs:**\n- Heavy rain in higher altitudes upstream — even if it's clear where you are\n- Sudden change in water colour (muddy brown) and smell\n- Roaring/rumbling sound from upstream\n- Rapid rise in water level\n\n**If You're Near a Stream or River:**\n- Move to higher ground IMMEDIATELY — don't wait to gather belongings\n- Don't try to cross even shallow-looking water — flash floods carry boulders and debris\n- Vertical movement (uphill) saves more lives than horizontal (downstream)\n\n**Driving / Travelling:**\n- Avoid roads in narrow valleys during/after rain\n- Many fatalities on Karakoram Highway, Naran-Kaghan road, Murree-Galyat are flash-flood related\n- If driving and water suddenly rises: abandon vehicle, climb up the slope\n\n**For GB / Chitral residents:**\n- GLOF early-warning systems exist for some lakes (Hassanabad, Shisper)\n- Follow GB-DMA (05811-920234) advisories\n\n**Emergency:** **1122** (where active) / **115** / Pakistan Army garrison nearest you in remote areas.",
+      "searchable_text": "flash flood gilgit baltistan glof glacial lake hill torrent dera ghazi khan murree naran",
+      "sources": [
+        {
+          "name": "GB-DMA",
+          "url": null
+        },
+        {
+          "name": "NDMA",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-04-01",
+      "disclaimer": false
+    },
+    {
+      "id": "heatwave_1",
+      "disaster_type": "heatwave",
+      "phase": "during",
+      "title": "Heatwave Safety (Pakistan)",
+      "content": "**Heatwave — Pakistan Summer**\n\nMajor heatwaves regularly hit Sindh and southern Punjab in May–June. The 2015 Karachi heatwave killed over 1,200 people. Hospital admissions for heat-stroke spike when temperatures cross 45°C.\n\n**During a Heatwave:**\n\n**1. Stay Indoors 11 AM – 4 PM** if possible\n\n**2. Drink Water Constantly**\n- Drink even when not thirsty\n- 3+ litres per day for adults; more for outdoor workers\n- Add a pinch of salt/sugar (or ORS sachet) to one glass per day\n- Avoid alcohol and excessive tea/coffee — they dehydrate\n\n**3. Cool Your Body:**\n- Wet cloth on neck, wrists, forehead\n- Light, loose, cotton clothes — light colours\n- Cold shower or bucket bath when possible\n\n**4. Vulnerable Groups Need Extra Care:**\n- Children (especially infants — never leave in parked cars)\n- Elderly\n- Outdoor workers (mazdoors, riders, traffic police)\n- People with heart, kidney, or diabetes conditions\n\n**5. Recognise Heat Stroke (medical emergency):**\n- Body temperature **40°C+**\n- Hot, dry skin (no sweating)\n- Headache, confusion, slurred speech, dizziness\n- Rapid pulse\n- Loss of consciousness\n\n**Heat Stroke First Aid:**\n1. Move to cool/shaded area\n2. Remove excess clothing\n3. Cool with water — wet cloths, fan, ice packs on neck/armpits/groin\n4. **Call 115 / 1122 immediately**\n5. Do NOT give water if person is unconscious\n\n**Helplines:** 115 (Edhi); 1122 (Rescue); 1199 (gas — common when AC overload causes load-shedding)",
+      "searchable_text": "heatwave heat stroke summer karachi sindh punjab dehydration cool water shade",
+      "sources": [
+        {
+          "name": "NDMA",
+          "url": null
+        },
+        {
+          "name": "PMD",
+          "url": null
+        },
+        {
+          "name": "Sindh Health Department",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-04-01",
+      "disclaimer": false
+    },
+    {
+      "id": "cyclone_1",
+      "disaster_type": "cyclone",
+      "phase": "during",
+      "title": "Cyclone Safety (Coastal Sindh & Balochistan)",
+      "content": "**Cyclone Safety — Pakistan Coast**\n\nThe Arabian Sea is increasingly producing cyclones affecting coastal Sindh (Karachi, Thatta, Badin) and Balochistan (Gwadar, Pasni, Ormara, Jiwani). Cyclone seasons: May–June and October–November.\n\n**Recent events:** Yemyin (2007), Phet (2010), Biparjoy (2023), Asna (2024).\n\n**When a Cyclone is Forecast:**\n\n**Before:**\n- Follow PMD (pmd.gov.pk) and PDMA Sindh / Balochistan advisories\n- If officials order evacuation — go. Don't wait\n- Stock food, water, batteries, cash for 3+ days\n- Charge all phones / power banks\n- Move boats inland (if you live in fishing villages: Gwadar, Sonmiani, Ibrahim Hyderi)\n\n**During:**\n- Stay indoors away from windows — broken glass causes most cyclone injuries\n- Stay in interior rooms / bathrooms / under sturdy furniture\n- DON'T go out during the **eye** of the storm — the calm is temporary\n- Listen to a battery radio — power and mobile networks usually fail\n\n**After:**\n- Wait for official all-clear before going out\n- Watch for downed power lines, broken glass, trees\n- Storm surge can persist for hours — coastal areas may still be flooding\n- Check on neighbours, especially elderly\n\n**Helplines:**\n- Coastal: **1122** (where active), **115**\n- PDMA Sindh: 021-99211530\n- PDMA Balochistan: 081-9202186\n- PMD: 051-9250368",
+      "searchable_text": "cyclone karachi gwadar sindh balochistan storm coastal arabian sea biparjoy",
+      "sources": [
+        {
+          "name": "NDMA",
+          "url": null
+        },
+        {
+          "name": "PDMA Sindh",
+          "url": null
+        },
+        {
+          "name": "PMD",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-04-01",
+      "disclaimer": false
+    },
+    {
+      "id": "fire_1",
+      "disaster_type": "fire",
+      "phase": "during",
+      "title": "Fire Safety (Home / Building)",
+      "content": "**Fire Safety**\n\n**If a Fire Starts:**\n\n**1. GET OUT, STAY OUT**\n- Don't try to fight a large fire — fire grows by doubling every 30 seconds\n- Close doors behind you to slow the spread\n\n**2. Crawl Under Smoke**\n- Smoke kills more people than flames in Pakistani building fires (poor ventilation, combustible interior finishes)\n- Air is cleaner closer to the floor\n\n**3. Test Doors Before Opening**\n- Touch with the back of your hand — if hot, don't open\n- Use another exit\n\n**4. Stop, Drop, and Roll** if your clothes catch fire — running fans the flames\n\n**5. Call Fire Brigade: 16 / 1122**\n- Give exact address with landmarks (Pakistani buildings often hard to find)\n- Mention if anyone is trapped, or if the building is multi-storey\n\n**Specific Pakistani Fire Risks:**\n\n**Kitchen fires:**\n- NEVER throw water on a cooking-oil fire — it explodes\n- Smother with a metal lid or wet cotton cloth\n- Turn off the gas at the main valve\n\n**Electrical fires:**\n- Switch off the main breaker FIRST\n- Don't use water on live electrical fire\n- Use a CO2 / dry-chemical extinguisher if available\n\n**Cylinder (LPG) fires:**\n- Get away immediately — risk of BLEVE explosion\n- Call 16 / 1122\n- Don't try to move the cylinder\n\n**Multi-storey building fires:**\n- Use stairs, NEVER elevators\n- Many old urban buildings (Saddar Karachi, Old Lahore, Rawalpindi) have only one staircase — know yours\n\n**Helpline:** **16** (Fire) / **1122** (Rescue) / **115** (Ambulance)",
+      "searchable_text": "fire safety home building kitchen cylinder lpg electrical smoke escape extinguisher",
+      "sources": [
+        {
+          "name": "NDMA",
+          "url": null
+        },
+        {
+          "name": "Civil Defence Pakistan",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-04-01",
+      "disclaimer": false
+    },
+    {
+      "id": "gas_leak_1",
+      "disaster_type": "gas_leak",
+      "phase": "during",
+      "title": "Gas Leak Response (Sui Gas)",
+      "content": "**Gas Leak — Immediate Action**\n\nIf you smell gas (mercaptan / 'rotten egg' smell, often added to natural gas):\n\n**1. DO NOT:**\n- Switch any electrical on or off (creates spark)\n- Use mobile phone inside the building (use it from outside)\n- Light a match, lighter, or stove\n- Ring doorbells, use intercoms, or operate any electrical appliance\n- Use a torch with a switch (keep it on if already on)\n\n**2. DO:**\n- Open all windows and doors immediately\n- Turn off the gas main valve (usually at the meter outside, or near the kitchen)\n- Get everyone out of the building\n- From a safe distance (outside), call **1199** (SSGC for southern Pakistan, SNGPL for Punjab/KPK)\n- Warn neighbours\n\n**3. If a Cylinder is Leaking:**\n- Carry it outdoors to an open area if you can do so SAFELY\n- Keep it upright\n- Don't put it in water — it doesn't help\n- Call **1199** and **16**\n\n**4. After:**\n- Don't return until authorities or gas company have inspected\n- Have your gas connections checked annually\n- Replace cracked or hardened rubber pipes\n- Use ISO/PSQCA-marked cylinders only\n\n**Common Causes of Gas Incidents in Pakistan:**\n- Old/damaged rubber pipes\n- Substandard / leaking cylinders\n- Geyser leaks (winter — many CO poisoning deaths annually in northern areas)\n- Buried pipeline corrosion\n\n**For Carbon Monoxide Symptoms** (headache, dizziness, nausea — esp. in winter from gas heaters/geysers): Get the person to fresh air. Call **115** / **1122**.",
+      "searchable_text": "gas leak sui gas sngpl ssgc smell mercaptan cylinder geyser carbon monoxide",
+      "sources": [
+        {
+          "name": "SSGC / SNGPL public safety advisories",
+          "url": null
+        },
+        {
+          "name": "NDMA",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-04-01",
+      "disclaimer": false
+    },
+    {
+      "id": "building_collapse_1",
+      "disaster_type": "building_collapse",
+      "phase": "during",
+      "title": "Building Collapse — During & Trapped",
+      "content": "**Building Collapse — Survival Guide**\n\nBuilding collapses are sadly common in Pakistan due to substandard construction (Karachi 2020, Margalla Towers 2005, Lahore factory collapses, illegal additions). Triggers: earthquake, heavy rain on weak structures, gas explosions, foundation failure.\n\n**If You Feel a Building Starting to Collapse:**\n- DROP, COVER, HOLD ON next to (NOT under) a sturdy piece of furniture, sturdy interior wall corner, or against a load-bearing wall — these create 'survival pockets' as floors pancake\n- Avoid windows, exterior walls, stairwells (they often fail first)\n- Don't run for the door if the building is already shaking\n\n**If You're Trapped After Collapse:**\n\n**1. Stay calm — panic uses oxygen faster**\n\n**2. Cover your nose and mouth** with a cloth — concrete dust is everywhere and damages lungs\n\n**3. Don't light matches, lighters, or strike sparks** — gas may be leaking\n\n**4. Conserve energy — don't shout if you can avoid it**\n- Tap on pipes, walls, or beams in groups of 3 (universal distress signal)\n- A whistle is louder than your voice and uses less air\n- Use your phone — text family/Rescue 1122; calls fail in collapse zones, texts often get through\n\n**5. Don't try to dig yourself out** if there's debris on top — you may bring more down\n\n**If You Witness a Collapse (don't enter):**\n- Call **1122** and **115** immediately\n- Give exact address — street, nearest landmark, district\n- Tell responders how many people you think are inside\n- Keep bystanders away — secondary collapse common\n- Don't move heavy debris yourself unless you're trained — you may injure trapped survivors\n\n**Pakistan Search & Rescue (SAR):**\n- Rescue 1122 has urban-SAR teams in major cities\n- Pakistan Army Engineering Corps deploys for major incidents\n- Civil Defence assists\n\n**Helpline:** **1122** / **115**",
+      "searchable_text": "building collapse trapped rescue survival pocket dust pipe tap whistle text",
+      "sources": [
+        {
+          "name": "NDMA",
+          "url": null
+        },
+        {
+          "name": "Rescue 1122",
+          "url": null
+        },
+        {
+          "name": "Pakistan Civil Defence",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-04-01",
+      "disclaimer": false
+    },
+    {
+      "id": "first_aid_bleeding_1",
+      "disaster_type": "general",
+      "phase": "during",
+      "title": "First Aid — Controlling Bleeding",
+      "content": "⚠️ **For life-threatening bleeding, call 115 or 1122 immediately while applying pressure.**\n\n**To Control Bleeding:**\n\n**1. Apply Direct Pressure**\n- Use a clean cloth, dupatta, towel, or bandage\n- Press firmly directly on the wound\n- Don't remove the cloth if it soaks through — add more layers on top\n- Maintain pressure for at least 10 minutes without lifting to check\n\n**2. Elevate the Injured Area**\n- Raise above heart level if possible (and if no fracture)\n\n**3. Apply a Pressure Bandage**\n- Wrap firmly but not so tight that fingers/toes go cold or numb\n- Check circulation below the bandage every few minutes\n\n**4. For Severe / Limb Bleeding (Last Resort — Trained Use Only):**\n- Tourniquet 5–8 cm above the wound (between wound and heart)\n- Note the EXACT TIME applied and write it on the patient (forehead, with marker)\n- Don't remove — wait for medical help\n- Tourniquets save lives in major arterial bleeds when nothing else works\n\n**Seek Medical Help If:**\n- Bleeding doesn't stop after 10–15 minutes of firm pressure\n- Wound is deep, gaping, or large\n- Object is embedded in wound (don't remove — stabilise around it)\n- Signs of shock appear (pale, cold, clammy skin; rapid weak pulse; confusion; thirst)\n\n**Shock Management:**\n- Lie the person flat\n- Elevate legs (if no leg/spine injury)\n- Keep them warm with a blanket / shawl\n- Don't give food or water (may need surgery)\n- Get them to a hospital fast\n\n**Helplines:** **115** (Edhi) / **1122** / nearest hospital ER",
+      "searchable_text": "first aid bleeding wound pressure bandage tourniquet blood control stop shock",
+      "sources": [
+        {
+          "name": "Pakistan Red Crescent",
+          "url": null
+        },
+        {
+          "name": "WHO basic life support guide",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-04-01",
+      "disclaimer": true,
+      "topic": "first_aid"
+    },
+    {
+      "id": "first_aid_cpr_1",
+      "disaster_type": "general",
+      "phase": "during",
+      "title": "First Aid — CPR Basics (Hands-Only)",
+      "content": "⚠️ **Call 115 or 1122 immediately before/while starting CPR. Have someone else call if possible.**\n\n**Hands-Only CPR (for untrained rescuers — adults):**\n\n**1. Check Responsiveness:**\n- Tap shoulder firmly and shout 'Are you OK?'\n- Look for breathing — chest rise and fall, normal breathing pattern\n- If unresponsive AND not breathing normally → start CPR\n\n**2. Call for Help:**\n- Call **115** or **1122**\n- Put phone on speaker — operators guide you\n\n**3. Position the Person:**\n- Lay flat on back on a firm surface (floor, not bed/sofa)\n- Kneel beside their chest\n- Tilt their head slightly back, chin lifted (open airway)\n\n**4. Chest Compressions:**\n- Place heel of one hand on the **centre of the chest** (between nipples on the breastbone)\n- Place your other hand on top, interlace fingers\n- Keep your arms straight, shoulders directly over hands\n- Push HARD and FAST: at least 5 cm (2 inches) deep\n- Rate: **100–120 per minute** (about the beat of 'Stayin' Alive' or 'Sajna' chorus)\n- Let chest fully recoil between compressions\n\n**5. Don't Stop Until:**\n- Emergency help (1122 / 115) arrives and takes over\n- Person shows clear signs of life (movement, breathing, responsiveness)\n- You're physically too exhausted (swap with another bystander every 2 minutes if possible)\n- An AED becomes available — follow its prompts\n\n**For Children (1–12 years):**\n- Use one hand if needed\n- Compress 4–5 cm deep\n- Same rate (100–120/min)\n- If trained: 30 compressions then 2 rescue breaths\n\n**For Infants (under 1 year):**\n- Use 2 fingers on the chest just below the nipple line\n- Compress about 4 cm\n- Get specialist help — call 115 immediately\n\n*If trained in full CPR with rescue breaths, follow your training (30:2 ratio).*",
+      "searchable_text": "first aid cpr chest compressions cardiac arrest heart stopped breathing emergency resuscitation",
+      "sources": [
+        {
+          "name": "American Heart Association",
+          "url": null
+        },
+        {
+          "name": "Pakistan Red Crescent",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-04-01",
+      "disclaimer": true,
+      "topic": "first_aid"
+    },
+    {
+      "id": "first_aid_burns_1",
+      "disaster_type": "general",
+      "phase": "during",
+      "title": "First Aid — Burns",
+      "content": "**First Aid for Burns**\n\n**Severity Categories:**\n- **First-degree:** red, painful, no blisters (like sunburn) → home-treatable\n- **Second-degree:** blisters, very painful → medical care if larger than your palm\n- **Third-degree:** white/black/leathery, may not be painful (nerves damaged) → emergency\n\n**For Any Burn:**\n\n**1. Stop the Burning**\n- Remove person from the heat source\n- Stop, Drop, Roll if clothes are on fire\n\n**2. Cool the Burn**\n- Run **cool (not ice-cold) water** over the burn for 15–20 minutes\n- This is the single most important step — works even hours after the burn\n- Don't use ice, butter, toothpaste, oil, sui-gas paste, raw egg, or any home remedy — these trap heat and cause infection\n\n**3. Cover Loosely**\n- Use a clean, dry, non-fluffy cloth (no cotton wool — it sticks)\n- Plastic cling-film is excellent for covering (sterile, clear, doesn't stick)\n- Don't pop blisters\n\n**4. Pain Management**\n- Paracetamol or ibuprofen as per dosage\n- Don't apply numbing creams to large areas\n\n**5. Seek Emergency Help (1122 / 115) IF:**\n- Burn is on face, hands, feet, joints, or genitals\n- Burn is larger than the patient's palm\n- Third-degree burn (any size)\n- Electrical or chemical burn\n- Person is a child / elderly / has medical conditions\n- Blisters cover a large area\n\n**Chemical Burns:**\n- Brush off dry chemicals before adding water\n- Then flood with water for at least 20 minutes\n\n**Electrical Burns:**\n- Don't touch the person until power is off\n- Even a small visible burn can hide major internal injury — go to hospital",
+      "searchable_text": "first aid burns burnt burned scalded scald cooking oil hot water electric chemical cool water hand finger arm skin stove iron",
+      "sources": [
+        {
+          "name": "Pakistan Red Crescent",
+          "url": null
+        },
+        {
+          "name": "WHO Burn Care",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-04-01",
+      "disclaimer": true,
+      "topic": "first_aid"
+    },
+    {
+      "id": "first_aid_snake_bite_1",
+      "disaster_type": "general",
+      "phase": "during",
+      "title": "First Aid — Snake Bite (Pakistan)",
+      "content": "**Snake Bite First Aid (Pakistan)**\n\nVenomous snakes in Pakistan: **Saw-scaled viper** (most common bites), **Russell's viper**, **Cobra**, **Krait**, **Indian common krait**. Snake bites are common in rural Sindh, Punjab, KPK during monsoon and harvest.\n\n**DO:**\n\n**1. Keep the person calm and still**\n- Movement spreads venom faster\n- Reassure them — most bites in Pakistan are by non-venomous snakes\n\n**2. Remove anything that could constrict swelling**\n- Rings, watches, bangles, tight clothing — before swelling sets in\n\n**3. Immobilise the bitten limb**\n- Splint it like a fracture if possible\n- Keep the limb below heart level\n\n**4. Note details if SAFE:**\n- Snake colour, size, head shape (don't try to capture or kill — many bites happen during these attempts)\n- A photo from a safe distance helps doctors choose the right anti-venom\n\n**5. Get to a hospital with anti-venom IMMEDIATELY**\n- **115** / **1122** for ambulance\n- Most district headquarter hospitals stock polyvalent anti-venom\n- Time is critical — ideally within 1 hour\n\n**DO NOT:**\n- Cut the wound\n- Suck out the venom (mouth bacteria + your own circulation)\n- Apply ice\n- Apply tight tourniquet (causes amputation, doesn't help with venom)\n- Give the person alcohol or strong tea/coffee\n- Try traditional remedies — they delay anti-venom\n- Try to capture or kill the snake\n\n**Symptoms to Tell the Hospital:**\n- Swelling, bleeding from gums/nose, drooping eyelids, difficulty breathing or swallowing, blurred vision, weakness, drowsiness\n\n**Helpline:** **115** (Edhi) / **1122** / nearest DHQ hospital",
+      "searchable_text": "snake bite venom anti venom rural pakistan saw scaled viper cobra krait monsoon",
+      "sources": [
+        {
+          "name": "Pakistan Medical Association",
+          "url": null
+        },
+        {
+          "name": "WHO snake-bite management",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-04-01",
+      "disclaimer": true,
+      "topic": "first_aid"
+    },
+    {
+      "id": "first_aid_electric_shock_1",
+      "disaster_type": "general",
+      "phase": "during",
+      "title": "First Aid — Electric Shock",
+      "content": "**Electric Shock — First Aid**\n\nElectric shock is common in Pakistan: KE/LESCO faulty wiring, water-logged streets in monsoon, illegal electrical work, kacha electrical extensions.\n\n**STEP 1 — Don't Touch the Person While Connected to Power**\n- You will get shocked too\n- TURN OFF the main breaker / mains switch first\n- If you can't reach the breaker: use a **dry wooden stick** or **dry plastic** (NEVER metal, NEVER wet anything) to push the source away from the person\n- For high-voltage lines (e.g., overhead power line down): stay at least 10 m away, call WAPDA (118) and 1122. Don't approach.\n\n**STEP 2 — Once Safe to Touch:**\n- Check responsiveness: tap and shout\n- Check breathing — chest rise/fall\n\n**STEP 3 — If Unresponsive and Not Breathing:**\n- Start hands-only CPR (see CPR card)\n- Call **115** or **1122** immediately — keep CPR going until they arrive\n\n**STEP 4 — If Breathing but Burned:**\n- Don't move them if they hit their head / fell from height (possible spine injury)\n- Cover burn with clean dry cloth — don't apply creams\n- Keep them warm, treat for shock (lie flat, elevate legs, blanket)\n- Get them to hospital — electric shock can cause **internal injuries** (heart rhythm problems, kidney damage) that aren't visible\n\n**Even minor-looking shocks need ER evaluation** if:\n- Loss of consciousness even briefly\n- Burns at entry/exit points\n- Chest pain, irregular heartbeat\n- Confusion, weakness\n- Through high voltage / lightning\n\n**Prevention:**\n- Don't run wet hands over switches\n- Don't stand in puddle near transformer / electric pole\n- Get earthing checked\n- Avoid kacha electrical extensions in plug points\n- During floods: switch off main breaker before water enters\n\n**Helpline:** **115** / **1122** / **118** (WAPDA / power emergency)",
+      "searchable_text": "electric shock electrocution power line cpr breaker wapda lesco ke",
+      "sources": [
+        {
+          "name": "WAPDA safety advisories",
+          "url": null
+        },
+        {
+          "name": "Pakistan Red Crescent",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-04-01",
+      "disclaimer": true,
+      "topic": "first_aid"
+    },
+    {
+      "id": "first_aid_drowning_1",
+      "disaster_type": "general",
+      "phase": "during",
+      "title": "First Aid — Drowning",
+      "content": "**Drowning Rescue & First Aid**\n\nDrowning is common in Pakistan during floods, at canals (Punjab/Sindh), at sea (Karachi beaches — strong rip currents), and in unfenced swimming pools.\n\n**Rescue (Without Risking Yourself):**\n\n**1. REACH** — extend a long stick, dupatta, rope, or pole from a safe position (don't lean over edge)\n\n**2. THROW** — anything that floats: empty plastic bottle, life ring, tyre tube, wood plank\n\n**3. ROW** — if a boat is available, go to them\n\n**4. GO (last resort)** — only enter water yourself if you are a strong swimmer with rescue training. **Many would-be rescuers drown.**\n\n**Once on Land:**\n\n**1. Place them on their back on firm ground**\n\n**2. Check breathing**\n- If not breathing → **start CPR immediately** (chest compressions)\n- Call **115** / **1122**\n\n**3. If breathing but unconscious:**\n- Place on side (recovery position) so any water/vomit drains out\n- Keep airway open\n- Cover with dry cloth — drowning victims lose body heat fast\n\n**4. If conscious and breathing:**\n- Don't make them stand or walk yet\n- Remove wet clothing if possible\n- Wrap in dry blanket / shawl\n- Get to hospital — **secondary drowning** can occur hours later from water in lungs\n\n**DO NOT:**\n- Try to drain water by holding them upside down or pumping their stomach — this delays CPR\n- Give food or water until evaluated\n- Assume they're 'fine' just because they're talking — go to ER\n\n**Pakistani-Specific Risks:**\n- Karachi rip currents (Sea View, Hawksbay): swim parallel to shore until free, then back\n- Canal drowning (children especially) — supervise around all open water\n- Flood waters carry submerged debris, snakes, broken glass\n\n**Helpline:** **115** / **1122**",
+      "searchable_text": "drowning drown drowned swallowed water child baby canal rescue flood sea karachi swimming pool cpr rip current near drowning",
+      "sources": [
+        {
+          "name": "Pakistan Red Crescent",
+          "url": null
+        },
+        {
+          "name": "WHO drowning prevention",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-04-01",
+      "disclaimer": true,
+      "topic": "first_aid"
+    },
+    {
+      "id": "first_aid_heat_stroke_1",
+      "disaster_type": "general",
+      "phase": "during",
+      "title": "First Aid — Heat Stroke",
+      "content": "**Heat Stroke — Medical Emergency**\n\nDuring Pakistani summer (May–June), heat stroke kills hundreds annually. Outdoor workers, elderly, and children are at highest risk. The 2015 Karachi heatwave killed >1,200 people in a few days.\n\n**Recognise Heat Stroke:**\n- Body temperature 40°C / 104°F or higher\n- Hot, dry skin (or profuse sweating earlier, then sweating stops)\n- Severe headache, confusion, slurred speech, irritability\n- Rapid heartbeat\n- Nausea, vomiting\n- Loss of consciousness, seizures in severe cases\n\n**This is a Life-Threatening Emergency. Call 115 / 1122 immediately, then:**\n\n**1. Move the Person to a Cool Place**\n- Indoors with AC / fan if possible\n- Otherwise shade, breeze\n\n**2. Remove Excess Clothing**\n- Loosen / remove clothing\n- Especially tight collars\n\n**3. Cool the Body Aggressively**\n- Apply wet cool cloths to: neck, armpits, groin, behind knees (where major arteries pass)\n- Spray with cool water and fan vigorously\n- If available: ice packs wrapped in cloth on these same spots\n- Cool bath / immersion in tub if person is fully conscious\n- Aim to bring temperature down to 38.5°C / 101°F\n\n**4. If Conscious & Able to Drink:**\n- Sips of cool water — slowly\n- ORS (electrolyte) sachet mixed in water if available\n- Don't force fluids if confused / vomiting\n\n**5. DO NOT:**\n- Give alcohol\n- Give very cold drinks (can cause cramps)\n- Give caffeine\n- Force unconscious person to drink — they'll choke\n- Give paracetamol or aspirin to lower fever — these don't work for heat stroke and can harm\n\n**Heat Exhaustion (less severe — precursor):**\n- Heavy sweating, weakness, headache, nausea\n- Move to cool area, drink ORS, rest, cool the body\n- If symptoms persist after 30 min or worsen → treat as heat stroke and call 115\n\n**Prevention During Heatwave:**\n- See 'Heatwave Safety' guide",
+      "searchable_text": "heat stroke heat exhaustion summer karachi sindh punjab cooling ors emergency",
+      "sources": [
+        {
+          "name": "Sindh Health Department",
+          "url": null
+        },
+        {
+          "name": "PMA",
+          "url": null
+        },
+        {
+          "name": "NDMA",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-04-01",
+      "disclaimer": true,
+      "topic": "first_aid"
+    },
+    {
+      "id": "first_aid_choking_1",
+      "disaster_type": "general",
+      "phase": "during",
+      "title": "First Aid — Choking",
+      "content": "**Choking — First Aid**\n\n**For an Adult or Older Child Who Is Choking:**\n\n**Recognise:**\n- Hands clutching throat (universal sign)\n- Can't speak, can't cough, can't breathe\n- Skin turning blue\n- Loss of consciousness\n\n**If they can cough or make noise** — encourage them to keep coughing. Don't intervene yet — they're moving air.\n\n**If they can't breathe / can't cough:**\n\n**STEP 1 — 5 Back Blows**\n- Stand to the side and slightly behind\n- Lean them forward\n- Give 5 sharp blows between the shoulder blades with the heel of your hand\n\n**STEP 2 — 5 Abdominal Thrusts (Heimlich Manoeuvre)**\n- Stand behind, wrap arms around their waist\n- Make a fist with one hand, place thumb-side just above their navel (well below the ribs)\n- Grab fist with other hand, thrust **inward and upward** sharply\n- Repeat 5 times\n\n**Continue alternating 5 back blows and 5 thrusts** until the object comes out OR person becomes unconscious.\n\n**If They Become Unconscious:**\n- Lower carefully to the ground\n- Call **115** / **1122**\n- Begin CPR — chest compressions can dislodge the object\n- Check the mouth before each rescue breath if you're trained\n\n**For Pregnant Women / Very Obese:**\n- Use chest thrusts instead of abdominal thrusts (place fist on lower half of breastbone)\n\n**For Babies (under 1 year):**\n- Hold face-down on your forearm\n- 5 back blows between shoulder blades\n- Then turn and give 5 chest thrusts (2 fingers in centre of chest)\n- Alternate, call 115\n\n**For Yourself if Choking Alone:**\n- Press your abdomen hard against a chair back / table edge / sink\n- Self-Heimlich repeatedly\n- Call 115 if possible — they can dispatch help even without speech\n\n**Helpline:** **115** / **1122**",
+      "searchable_text": "choking heimlich manoeuvre back blows abdominal thrust airway obstruction",
+      "sources": [
+        {
+          "name": "Pakistan Red Crescent",
+          "url": null
+        },
+        {
+          "name": "American Heart Association",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-04-01",
+      "disclaimer": true,
+      "topic": "first_aid"
+    },
+    {
+      "id": "first_aid_fracture_1",
+      "disaster_type": "general",
+      "phase": "during",
+      "title": "First Aid — Fractures",
+      "content": "**First Aid for Fractures (Broken Bones)**\n\n**Suspect a fracture if:**\n- Severe pain, especially on movement or pressure\n- Swelling, bruising\n- Visible deformity (limb at unnatural angle)\n- Bone visible (open fracture — emergency)\n- Inability to use the limb\n- Crackling or grinding sound at injury\n\n**General Rules:**\n\n**1. Don't Move the Person Unless Necessary**\n- Especially if neck, back, head, hip injury suspected\n- If they must be moved (e.g., from a fire), keep their body in alignment\n\n**2. Immobilise the Broken Limb**\n- Support the joints above and below the break\n- Use a splint: wooden stick, rolled newspaper/magazine, even an umbrella\n- Pad it with cloth before tying\n- Tie firmly above and below the fracture, not over it\n- Check fingers/toes for warmth and colour every few minutes (loosen if blue/cold)\n\n**3. For Open Fractures (Bone Visible):**\n- DON'T push the bone back in\n- Cover with a clean cloth to prevent infection\n- Apply gentle pressure around (not on) the wound to control bleeding\n- Call **115** / **1122**\n\n**4. For Suspected Spine / Neck Injury:**\n- DON'T move the person\n- Stabilise the head between two firm objects (rolled towels, books)\n- Tell them to stay still\n- Wait for paramedics\n\n**5. Treat for Shock:**\n- Keep warm with a blanket\n- Reassure them\n- Don't give food/water (may need surgery)\n\n**6. Pain Management:**\n- Cold compress (wrapped ice, frozen peas) over the area — **15–20 min on, 20 min off**, never directly on skin\n- Paracetamol (not aspirin — increases bleeding)\n\n**Get to a Hospital With X-Ray:**\n- **115** / **1122** / nearest DHQ or trauma centre\n- For severe / open / spine injuries: don't drive yourself, call ambulance\n\n**DON'T:**\n- Try to 'set' or pull the bone\n- Apply oil / hot fomentation in the first 48 hours (increases swelling)\n- Massage the area\n- Use traditional bone-setters before X-ray and proper assessment",
+      "searchable_text": "first aid fracture fractures fractured broken break bones bone splint immobilise spine neck injury arm leg wrist ankle hand foot finger toe rib jaw nose sprain sprained",
+      "sources": [
+        {
+          "name": "Pakistan Red Crescent",
+          "url": null
+        },
+        {
+          "name": "trauma management guidelines",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-04-01",
+      "disclaimer": true,
+      "topic": "first_aid"
+    },
+    {
+      "id": "general_kit_1",
+      "disaster_type": "general",
+      "phase": "before",
+      "title": "Emergency Survival Kit (Pakistan)",
+      "content": "**Essential Emergency Kit Items (3-Day Supply)**\n\nKeep this kit in a sturdy backpack near the main exit, ready to grab.\n\n**Water & Food:**\n- Water: 4 litres per person per day (at least 12 litres per person for 3 days)\n- Non-perishable food: dates, dry fruits, packaged biscuits, sealed snacks, gur, peanuts\n- Can opener (manual) if you have canned food\n- Disposable plates / cups\n\n**Safety & First Aid:**\n- First aid kit:\n  - Bandages (various sizes), gauze, antiseptic (Pyodine)\n  - Pain relief (Paracetamol, Brufen)\n  - ORS sachets (4–6)\n  - Scissors, tweezers\n  - Thermometer\n  - Cotton wool\n  - Adhesive tape\n- Prescription medications (7-day supply, in original boxes)\n- Flashlight + spare batteries\n- Power bank (10,000+ mAh, fully charged)\n- Battery-powered or hand-crank radio\n- Whistle (for signalling)\n- N95 / dust masks\n- Lighter / waterproof matches\n- Multi-tool / Swiss-army knife\n\n**Documents & Communication:**\n- Photocopies of CNIC for each family member (in waterproof zip bag)\n- Passport copies (if applicable)\n- Property documents / rent agreement copy\n- Insurance papers (if any)\n- Bank account / ATM card numbers\n- Emergency contact list (printed, not just on phone)\n- Local map of your area\n- Mobile phone + chargers (multiple cables)\n- Cash in small notes (Rs. 5,000–10,000 in Rs. 50/100 bills)\n\n**Personal Items:**\n- 1 change of clothes per person\n- Sturdy walking shoes\n- Light blanket or large shawl\n- Soap, toothbrush, toothpaste, hand sanitizer\n- Sanitary supplies (women, infants)\n- Toilet paper / wipes\n- Mosquito repellent (Mospel / Odomos)\n- Sunscreen, sunglasses, cap (heatwave / outdoor exposure)\n\n**Special Needs:**\n- Baby formula, diapers, infant blanket (if applicable)\n- Pet food (if applicable)\n- Glasses / contacts + spare\n- Hearing aid + spare batteries\n\n**Special Documents in Sealed Bag:**\n- Family photographs (one set)\n- Will / wasiyat (if any)\n- Religious items (Quran, prayer beads — items of meaning)\n\n**Refresh annually:**\n- Replace water every 6 months\n- Check medication expiry\n- Refresh batteries\n- Update phone numbers and documents",
+      "searchable_text": "emergency kit supplies survival bag preparedness essentials water food medicine documents",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-04-01",
+      "disclaimer": false
+    },
+    {
+      "id": "mental_health_post_disaster_1",
+      "disaster_type": "mental_health",
+      "phase": "during",
+      "title": "Post-Disaster Mental Health",
+      "content": "**Mental Health After a Disaster — It's Normal to Feel Overwhelmed**\n\nDisasters cause psychological trauma even in people who weren't physically hurt. Recovery is possible — but it takes time and, sometimes, support.\n\n**Common Reactions (in the first weeks):**\n- Anxiety, fear, restlessness\n- Sleep problems, nightmares\n- Sudden tearfulness\n- Difficulty concentrating, making decisions\n- Anger, irritability — even at minor things\n- Numbness, feeling 'cut off' from emotions\n- Guilt (survivor's guilt)\n- Physical symptoms: headaches, body aches, stomach issues, racing heart\n- Flashbacks or intrusive memories\n\n**For most people, these symptoms ease within a few weeks of safe, stable life.**\n\n**Self-Care Basics:**\n\n**1. Re-establish a routine** — regular meals, sleep at the same time, basic chores. Routine signals safety to the brain.\n\n**2. Stay connected** — talk to family, friends, neighbours. Don't isolate. Pakistani extended-family and mosque/church/mandir/gurdwara networks are powerful sources of support.\n\n**3. Limit news/social-media exposure** to disaster footage — it re-traumatises\n\n**4. Move your body** — even a short walk helps regulate stress hormones\n\n**5. Eat regularly** — even small amounts. Avoid heavy reliance on caffeine, sugar, paan/gutka, alcohol\n\n**6. Religious / spiritual practices** — prayer, dua, meditation, going to your place of worship — if these help you, use them\n\n**7. Help others** — if you're physically able, helping others recover is itself therapeutic\n\n**Children's Reactions:**\n- Regression (bedwetting, thumb-sucking)\n- Clinginess\n- School avoidance\n- Aggressive play, drawing the disaster\n- Physical complaints\n- Reassure with hugs and routine. Let them talk or draw. Don't dismiss their fears.\n\n**Seek Professional Help If:**\n- Symptoms persist beyond 4–6 weeks or worsen\n- Severe panic attacks\n- Inability to function (can't work, can't care for family)\n- Substance abuse to cope\n- Thoughts of self-harm or suicide → call **115** immediately, or take them to nearest hospital ER\n\n**Free Mental Health Helplines (Pakistan):**\n- **Rozan Counseling** — 0304-1111741 (depression, trauma)\n- **Umang Helpline** — 0311-7786264 (youth-focused)\n- **Taskeen** — taskeen.org (online resources)\n- **Government hospitals** have psychiatry departments — DHQ, AKUH, JPMC, Mayo, JPMC, PIMS\n- **Local mental health professionals** through Pakistan Psychological Association directory\n\n**Disclaimer:** This is supportive guidance, not medical treatment. Severe or persistent mental health issues need a qualified mental health professional.",
+      "searchable_text": "mental health post disaster trauma anxiety depression ptsd children counseling",
+      "sources": [
+        {
+          "name": "WHO mental-health-in-emergencies guide",
+          "url": null
+        },
+        {
+          "name": "Rozan",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": true
+    },
+    {
+      "id": "evacuation_general_1",
+      "disaster_type": "general",
+      "phase": "general",
+      "title": "Evacuation Guidance (General)",
+      "content": "**Evacuation Guidance**\n\nWhether the threat is fire, flood, gas leak, or pending earthquake aftershock — these principles apply.\n\n**Before You Evacuate:**\n\n**1. Don't wait for an official order if you see imminent danger** — rising water, fire smoke, structural cracks, gas smell\n\n**2. Take only essentials** (the 'grab bag' approach):\n- CNIC + cash\n- Phone + charger / power bank\n- Medications\n- Water (1 bottle per person)\n- Sturdy shoes\n- Light blanket / shawl\n- One day's food (biscuits, dates)\n\n**3. Tell someone outside the danger zone where you're going** — relative in another city, friend, neighbour at a higher elevation\n\n**4. Lock your home** if there's time, but **don't waste minutes packing** — life > belongings\n\n**During Evacuation:**\n\n**5. Move purposefully but don't run** — running causes panic injuries, twisted ankles, falls in crowds\n\n**6. Stay together** as a family — assign one adult per child\n\n**7. Keep to main roads** when possible — they're cleared first by responders\n\n**8. For specific disasters:**\n- **Flood:** higher ground (hills, multi-storey buildings, embankments)\n- **Earthquake:** open area away from buildings, trees, electricity poles\n- **Fire:** away from the building, downwind to fresh air, NO elevators\n- **Gas leak:** upwind, far from the source, no electrical / fire near you\n- **Cyclone:** inland, sturdy concrete building, away from coast\n\n**9. Don't drive into floodwater** — 60 cm sweeps a car. Abandon vehicle if water rises.\n\n**Vulnerable Family Members:**\n- **Elderly:** bring their walking aids, medications. Don't rush them.\n- **Children:** hold their hand, talk calmly. Have them memorise your phone number.\n- **Disabled:** know their needs in advance; have a family plan for who helps whom\n- **Pregnant women / infants:** carry enough water, milk if applicable\n\n**Where to Go:**\n- Government schools, colleges, sports complexes, community halls — typical relief centres\n- Tahsil / district HQ\n- Pakistan Army cantonments often open during major disasters\n- Stay with relatives outside the affected area if safe to travel\n\n**Don't:**\n- Return until authorities declare safe\n- Send children back alone to fetch belongings\n- Trust unverified WhatsApp forwards about 'safe routes' — verify with PDMA / NDMA\n\n**Helplines:** **1122** / **115** / NDMA **051-9205037** / your provincial PDMA",
+      "searchable_text": "evacuation route grab bag essentials flood earthquake fire family vulnerable shelter",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-04-01",
+      "disclaimer": false
+    },
+    {
+      "id": "donation_volunteering_general_1",
+      "disaster_type": "general",
+      "phase": "general",
+      "title": "Donating & Volunteering for Disaster Relief",
+      "content": "**Donating & Volunteering — Pakistan**\n\nDuring major disasters, well-intentioned but uncoordinated help can sometimes hinder relief operations. Here's how to help effectively.\n\n**Trusted Organisations:**\n\n**Established Relief NGOs:**\n- **Edhi Foundation** — edhi.org / 115 / nationwide\n- **Chhipa Welfare** — chhipa.org / 1020 / Karachi-based, nationwide\n- **JDC Foundation** — jdcwelfare.org / 0311-1112400 / Karachi\n- **Saylani Welfare** — saylaniwelfare.com\n- **Al-Khidmat Foundation** — alkhidmat.org\n- **Akhuwat** — akhuwat.org.pk (interest-free loans for victims)\n- **Pakistan Red Crescent Society** — prcs.org.pk / 051-9250404\n\n**Medical Aid:**\n- **Shaukat Khanum** — shaukatkhanum.org.pk\n- **Indus Hospital** — indushospital.org.pk\n- **The Citizens Foundation** (TCF) for affected children's education — tcf.org.pk\n\n**Government Channels:**\n- **NDMA Citizen Donation** — ndma.gov.pk\n- **Provincial PDMA donation accounts** — usually announced during emergencies\n- **PM Relief Fund** — when activated\n\n**To Donate Effectively:**\n\n**1. Money is more useful than goods**\n- Organisations buy locally: faster, culturally appropriate, supports affected economy\n- Avoid donating clothes, toys, food unless specifically asked\n\n**2. Verify before donating online**\n- Cross-check social media donation appeals with the organisation's official site/phone\n- Beware of fake-organisation scams that surge during disasters\n\n**3. Specify your donation purpose** if you have one (medical, food, shelter, education)\n\n**4. For Zakat:**\n- Most major NGOs publish Zakat policies\n- Confirm the organisation accepts and uses Zakat properly per Islamic guidelines\n\n**To Volunteer:**\n\n**1. Don't go independently to a disaster zone**\n- Untrained presence can hinder professional rescue\n- You may need rescue yourself\n\n**2. Register with established organisations**\n- Pakistan Red Crescent runs regular volunteer training\n- Edhi, Chhipa, JDC accept volunteers (training provided)\n- TCF, Akhuwat for non-emergency volunteering\n\n**3. Donate Skills From Home**\n- Translation\n- Social media coordination\n- Fundraising\n- Database / IT help\n\n**4. Donate Blood**\n- Especially after major incidents\n- Pakistan Red Crescent, AKUH, Indus Hospital, Fatimid Foundation, Husaini Hematology\n- Walk-in donations welcome at most blood banks\n\n**Tax Benefits:**\n- Donations to government-approved organisations are tax-deductible — keep your receipt\n\n**Helpline:** Most organisations above have 24/7 lines. Specific helpline: **051-9205037** (NDMA) for coordinated relief.",
+      "searchable_text": "donate donation volunteering edhi chhipa jdc red crescent saylani al khidmat zakat blood",
+      "sources": [
+        {
+          "name": "Public information from listed organisations",
+          "url": null
+        },
+        {
+          "name": "NDMA",
+          "url": null
+        }
+      ],
+      "last_verified": "2026-04-01",
+      "disclaimer": false
+    },
+    {
+      "id": "earthquake.prevention.001",
+      "disaster_type": "earthquake",
+      "phase": "prevention",
+      "title": "Earthquake risk reduction at home",
+      "content": "**Earthquake risk reduction — long-horizon steps before any shaking starts.**\n\n**1. Know your zone.** Northern Pakistan (GB, AJK, KPK Hazara, northern Punjab) is on the Hindukush-Himalayan thrust; Quetta-Chaman-Loralai is on the Chaman fault; Karachi/Gwadar coast lies near the Makran subduction. The 2005 Kashmir quake (M7.6) and 1935 Quetta quake (M7.7) are within living memory.\n\n**2. Inspect your building.** Have unreinforced masonry (kacha, old RCC frames, hollow-block) checked by a structural engineer. Retrofit options: wall ties, base bolting, perimeter beam strengthening. Building Code of Pakistan (BCP-2021) is the legal floor for new construction.\n\n**3. Anchor furniture.** Almirahs, water tanks, geysers, TVs, and kitchen shelves are the largest in-house injury cause. Use brackets to wall studs, not just plaster.\n\n**4. Map your hazards.** Identify safe spots in each room (under sturdy desk, against an internal load-bearing wall — not a doorway). Mark gas main valve, electrical breaker, water shut-off. Photograph the layout.\n\n**5. Plan the kit.** A minimum 3-day grab bag (see emergency kit guide), kept by the front door, refreshed every six months.\n\n**6. Teach the household.** Children, elderly relatives, and domestic staff all need to know DROP-COVER-HOLD-ON before they need it.",
+      "searchable_text": "earthquake prevention risk reduction retrofit retrofitting anchor furniture old building masonry pakistan building code bcp hindukush chaman makran",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": "https://ndma.gov.pk"
+        },
+        {
+          "name": "Geological Survey of Pakistan",
+          "url": "https://www.gsp.gov.pk"
+        },
+        {
+          "name": "USGS Earthquake Hazards",
+          "url": "https://www.usgs.gov/programs/earthquake-hazards"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": false
+    },
+    {
+      "id": "earthquake.recovery.001",
+      "disaster_type": "earthquake",
+      "phase": "recovery",
+      "title": "Recovery in the weeks after an earthquake",
+      "content": "**Earthquake recovery — the first weeks after the immediate emergency.**\n\n**1. Don't move back into a damaged structure.** Even if it looks intact, post-quake structural failure is a leading cause of secondary deaths (notably 2005 Kashmir aftershock collapses). Wait for an engineering assessment. PDMA and district administration coordinate inspection rounds.\n\n**2. Document damage thoroughly.** Photographs of cracks, displacement, water/gas/electrical damage support BISP / Ehsaas relief and any insurance claim.\n\n**3. Watch for delayed health issues.** Concrete dust exposure — chronic cough, irritated airways. Contaminated water — diarrhoea, cholera, hepatitis A/E. Mosquito-borne disease in standing water — dengue, malaria. Get medical attention early; children dehydrate fastest.\n\n**4. Mental health is part of recovery.** Sleep disruption, hypervigilance, intrusive memories are normal in the first few weeks. If symptoms persist beyond a month or worsen — especially in children or those with prior trauma — call Rozan (0304-111-1741) or Umang (0311-7786264). Suicidal thoughts → call 115.\n\n**5. Rebuild safer.** New construction must meet BCP-2021. Insist on a registered structural engineer signing off on any major repair.\n\n**6. Stay alert for aftershocks for weeks.** Northern Pakistan saw M6+ aftershocks days and weeks after the 2005 mainshock. Keep your kit accessible.",
+      "searchable_text": "earthquake recovery aftershock damage assessment structural inspection mental health rebuild bcp pdma bisp",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": "https://ndma.gov.pk"
+        },
+        {
+          "name": "Pakistan Red Crescent",
+          "url": "https://prcs.org.pk"
+        },
+        {
+          "name": "World Health Organization",
+          "url": "https://www.who.int"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": false
+    },
+    {
+      "id": "earthquake.before.001",
+      "disaster_type": "earthquake",
+      "phase": "before",
+      "title": "Earthquake preparedness for schools and households with children",
+      "content": "**Drill before the disaster — protocols for households with children, elderly, and disabled members.**\n\n**For children:**\n- Teach DROP-COVER-HOLD-ON as a game. Repetition matters more than a single talk.\n- Memorise one out-of-area relative's phone number. Stick it on the school bag.\n- Identify the family meeting point outside the home and a backup if the first is blocked.\n- Don't rely on phone reception — networks fail in the first hour after a major quake.\n\n**For elderly relatives:**\n- Pre-position the cane/walker next to where they sleep.\n- Keep a 7-day medication supply in the grab bag.\n- Pre-arrange a strong neighbour or relative who is responsible for them post-quake.\n- Sleep on a lower floor where possible; avoid heavy headboards.\n\n**For disabled household members:**\n- Keep mobility aids, hearing aids, and spare batteries with the grab bag.\n- Bracelet or laminated card with medical conditions, allergies, and emergency contact.\n- If wheelchair-bound, identify the safest interior wall corner with no overhead hazards.\n- Discuss the evacuation plan with anyone who would help.\n\n**For schools:**\n- Ministry of Federal Education / NDMA-endorsed quarterly drills.\n- Ensure heavy classroom items (almirahs, projectors, science lab shelves) are anchored.\n- Teachers know how to triage minor vs serious injuries until Rescue 1122 arrives.",
+      "searchable_text": "earthquake before preparedness school drill children elderly disabled family plan vulnerable groups pakistan",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": "https://ndma.gov.pk"
+        },
+        {
+          "name": "Pakistan Red Crescent",
+          "url": "https://prcs.org.pk"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": false
+    },
+    {
+      "id": "earthquake.during.outdoors.001",
+      "disaster_type": "earthquake",
+      "phase": "during",
+      "title": "Earthquake — outdoor and vehicle response",
+      "content": "**If you are outdoors when the shaking starts:**\n\n1. Move to a clear open area away from buildings, electricity poles, billboards, trees, and overhead signs. Falling masonry from cornices and parapets is the leading outdoor injury source in Pakistani urban centres.\n2. Drop to the ground and protect your head and neck with your arms.\n3. Stay away from unreinforced boundary walls — they tend to topple in M5+ shaking.\n4. Wait until shaking stops AND debris settles before moving.\n\n**If you are in a vehicle:**\n\n1. Pull over in a safe spot — away from buildings, overpasses, flyovers, and power lines. Stay out of underpasses (Karachi, Lahore have several with structural concerns).\n2. Stop, set the parking brake, stay inside with your seatbelt fastened.\n3. Do not park under cantilever billboards or palm trees.\n4. After shaking stops, watch for road damage — buckled asphalt, fallen wires, sinkholes.\n5. Listen to FM 101 / PTV for road advisories before driving on.\n\n**On a bridge or in a tunnel:**\n\n- Bridge: keep moving forward off the bridge if you can do so safely.\n- Tunnel: stop, stay in the vehicle, brace.\n\n**On the coast (Karachi, Gwadar, Pasni, Jiwani):** Strong shaking near the Makran zone could be a tsunami precursor. Move inland to higher ground without waiting for an official warning. The 1945 Makran tsunami struck within minutes of the quake.\n\n**Emergency numbers:** Rescue 1122 — Edhi 115 — NDMA 051-9205037.",
+      "searchable_text": "earthquake during outdoor vehicle car bridge tunnel pakistan makran tsunami coast karachi gwadar",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": "https://ndma.gov.pk"
+        },
+        {
+          "name": "USGS Earthquake Hazards",
+          "url": "https://www.usgs.gov/programs/earthquake-hazards"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": false
+    },
+    {
+      "id": "flood.prevention.001",
+      "disaster_type": "flood",
+      "phase": "prevention",
+      "title": "Flood risk reduction — household and community level",
+      "content": "**Flood risk reduction — what to do well before monsoon.**\n\n**Household:**\n- Raise electrical sockets, distribution boards, and the gas meter above past flood levels where you can.\n- Install one-way valves on sewer lines if you live in low-lying urban areas (DHA Karachi, parts of Lahore Cantt, sections of Rawalpindi).\n- Move boilers, geysers, and main breaker boxes to upper floors when feasible.\n- Store property documents, CNICs, photos, and one week of medication in a waterproof zip bag, accessible at short notice.\n- Build a small ramp / sandbag stash if you are in a known-flood area; canvas sandbags and sand are stocked at most district administration offices ahead of monsoon.\n\n**Building:**\n- Clear roof drains, gutters, and street-side nullahs before July. Encroachment on stormwater nullahs (Karachi, Lahore, Rawalpindi) is the single biggest urban flood multiplier.\n- Roof waterproofing inspection annually — leaks turn into structural damage during sustained rain.\n\n**Community:**\n- Know your nearest pucca multi-storey building you can shelter in if water rises.\n- Subscribe to PMD (pmd.gov.pk) and your provincial PDMA's Twitter / Facebook for early warnings. NDMA SMS alerts are activated for major events.\n- Keep livestock tethering points identified on higher ground if you are in a riverine area (Indus, Chenab, Jhelum, Ravi, Sutlej, Kabul belts).\n\n**Insurance / financial:**\n- BISP / Ehsaas typically opens a flood relief window for affected districts. Keep your registration current.",
+      "searchable_text": "flood prevention monsoon household nullah indus chenab jhelum drainage waterproof bisp pmd ndma pdma",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": "https://ndma.gov.pk"
+        },
+        {
+          "name": "Pakistan Meteorological Department",
+          "url": "https://www.pmd.gov.pk"
+        },
+        {
+          "name": "Pakistan Red Crescent",
+          "url": "https://prcs.org.pk"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": false
+    },
+    {
+      "id": "flood.recovery.001",
+      "disaster_type": "flood",
+      "phase": "recovery",
+      "title": "Flood recovery — weeks to months after the water recedes",
+      "content": "**Flood recovery is a long phase. The displacement-and-disease tail is what kills most Pakistanis after a major flood (2010 and 2022 in particular).**\n\n**1. Wait for an official all-clear before returning home.** District administration / PDMA announce when an area is safe.\n\n**2. Before re-entering:**\n- Mud-brick (kacha) walls collapse silently after prolonged saturation. Don't lean on them or put weight on roofs.\n- Snakes, scorpions, and stray dogs displaced from fields take shelter in dry indoor spaces.\n- Smell test for gas; if any suspicion, leave immediately and call 1199.\n- Inspect electrical wiring before turning the breaker back on. Hire an electrician if standing water touched any junction.\n\n**3. Health surveillance for 4–6 weeks:**\n- Cholera, typhoid, hepatitis A/E from contaminated water. Boil drinking water 5+ minutes or use chlorine tablets until tap water is officially safe.\n- Dengue, malaria post-flood mosquito boom — drain standing water in the house weekly, sleep under nets.\n- Skin and eye infections from mud and contaminated water — early treatment matters.\n- Children dehydrate within hours of diarrhoea. Get medical attention at the first sign of fever, vomiting, or watery stool.\n\n**4. Documentation and relief:**\n- Photograph all damage before cleaning.\n- Register with the district BISP / Ehsaas relief window.\n- Pakistan Red Crescent and Edhi run medical camps for weeks in affected districts.\n\n**5. Rebuilding:**\n- Reinforce masonry where possible. NDMA's Build Back Better guidelines target flood-resilient designs.\n- Drain catchments around the home so the next monsoon doesn't re-flood the same low spot.\n\n**6. Mental health.** Loss of home, livelihood, and community has a long psychological tail. See the mental health section. Rozan 0304-111-1741, Umang 0311-7786264.",
+      "searchable_text": "flood recovery cleanup health cholera dengue rebuild bisp pakistan red crescent mud brick electrical mental health",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": "https://ndma.gov.pk"
+        },
+        {
+          "name": "World Health Organization",
+          "url": "https://www.who.int"
+        },
+        {
+          "name": "Pakistan Red Crescent",
+          "url": "https://prcs.org.pk"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": false
+    },
+    {
+      "id": "flood.during.vehicle.001",
+      "disaster_type": "flood",
+      "phase": "during",
+      "title": "Flood — what to do when your vehicle is in rising water",
+      "content": "**A vehicle in rising flood water is one of the most dangerous places to be. 60 cm of moving water can sweep an SUV.**\n\n**If water is rising and you are still moving:**\n1. **Turn around. Do not cross.** \"Turn around, don't drown\" is not a slogan — it is a survival rule. Most flood vehicle deaths happen on familiar routes drivers thought they could read.\n2. Avoid underpasses (Karachi's Liaquatabad, Mall Road Lahore, several Pindi underpasses fill within minutes during heavy rain).\n3. Avoid bridges over fast-rising rivers.\n\n**If water has reached your wheels but you are stopped:**\n1. Restart the engine only if the air intake is well above water. Hydrolock is permanent damage.\n2. Slowly reverse onto higher ground if the road behind is clear.\n3. If the engine is dead, do not crank repeatedly — flooded cylinders bend rods.\n\n**If water is up to the doors and rising:**\n1. **Get out. Now.** Do not wait for the water to \"go down a bit.\"\n2. Open the door before water reaches the window. Once it does, door pressure makes opening near-impossible.\n3. If a door won't open: lower an electric window if the system still works, or break the side window with a centre-punch / glass-breaker. Side and rear windows are tempered and shatter; the windshield is laminated and will not.\n4. Climb onto the roof if the surrounding water is deeper than knee-high. Wait for rescue.\n5. If you must wade, use a stick to probe ahead — open manholes are the hidden killer in urban floods.\n\n**Call:** Rescue 1122. Give the road, nearest landmark, and direction of travel. Stay on the line.",
+      "searchable_text": "flood vehicle car trapped rising water hydrolock window break karachi underpass urban flood",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": "https://ndma.gov.pk"
+        },
+        {
+          "name": "Pakistan Red Crescent",
+          "url": "https://prcs.org.pk"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": false
+    },
+    {
+      "id": "heatwave.prevention.001",
+      "disaster_type": "heatwave",
+      "phase": "prevention",
+      "title": "Heatwave prevention — building hydration and cooling habits before peak summer",
+      "content": "**Heatwaves now arrive earlier and harder in Sindh and southern Punjab. Karachi 2015 (>1,200 deaths) is the modern reference point.**\n\n**Build the hydration habit in March-April:**\n- Adults: 2.5–3 L water per day baseline. Add 1 L per hour of outdoor work.\n- Outdoor workers (mazdoors, riders, traffic police, construction): set hourly drink reminders.\n- Keep a water bottle within arm's reach during the day.\n- ORS sachets at home and in the car. One sachet in 1 L water.\n- Avoid alcohol, excessive paan/gutka, and high-caffeine drinks — they dehydrate.\n\n**Make the home heat-tolerant:**\n- Light-coloured roof paint or chuna lowers indoor temperature by several degrees.\n- Heavy curtains on west-facing windows.\n- Cross-ventilation: identify which windows to open at night.\n- Keep one room as the \"cool zone\" — windowless or with the strongest fan/AC. Fall back to it during peak heat.\n- Stock a basic cooling kit: fan, wet towels, ice, ORS.\n\n**Vehicle:**\n- Never leave children, elderly, or pets in a parked vehicle even briefly. Interior temperatures pass 50°C in minutes in May–June.\n- Sunshade for the windshield. Keep one extra litre of water in the boot during summer.\n\n**Plan for power cuts:**\n- Load shedding peaks during heatwaves. UPS, battery fans, power banks.\n- Check on neighbours who don't have backup, especially elderly living alone.",
+      "searchable_text": "heatwave prevention hydration ors karachi sindh punjab cooling home power outage habits summer",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": "https://ndma.gov.pk"
+        },
+        {
+          "name": "Pakistan Meteorological Department",
+          "url": "https://www.pmd.gov.pk"
+        },
+        {
+          "name": "World Health Organization",
+          "url": "https://www.who.int"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": false
+    },
+    {
+      "id": "heatwave.before.001",
+      "disaster_type": "heatwave",
+      "phase": "before",
+      "title": "Heatwave — what to do when PMD issues an alert",
+      "content": "**PMD heatwave alerts typically run 24–72 hours ahead. Use the lead time.**\n\n**Watch and stock:**\n- Confirm the alert via PMD (pmd.gov.pk) or NDMA. WhatsApp forwards are not authoritative.\n- Stock 3+ days of water (4 L per person per day minimum). Tap supply often fails during peak heat.\n- Stock ORS (4–6 sachets per household), light food, fruit (watermelon, cucumber, citrus).\n- Charge phones, power banks, battery fans. Test the UPS.\n\n**Reschedule:**\n- Move outdoor work, errands, sports to before 11 AM or after 5 PM.\n- Reschedule elderly relatives' clinic visits if possible.\n- Check on neighbours and domestic staff who work outdoors.\n\n**Vulnerable groups need a check-in plan:**\n- Elderly living alone — phone or visit twice a day during the alert.\n- Pregnant women, infants — keep cool, drink frequently, watch for distress.\n- People with heart, kidney, or diabetic conditions — stay indoors during peak.\n- Outdoor workers — hourly water + shade breaks; OSH-Pakistan circulars apply.\n\n**Recognise heat stroke early (call 115 / 1122):**\n- Body temperature 40°C+, hot dry skin (no sweating)\n- Confusion, slurred speech, severe headache\n- Rapid pulse, loss of consciousness\n\n**First-aid stop-gap while waiting for ambulance:**\n- Move to coolest space. Remove excess clothing.\n- Wet cloths to neck, armpits, groin (major arteries cool fastest).\n- Fan vigorously. If conscious, sip cool water or ORS.\n- Do NOT give fluids if unconscious — choking risk.",
+      "searchable_text": "heatwave before alert pmd ndma stock ors elderly outdoor workers heat stroke karachi sindh punjab",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": "https://ndma.gov.pk"
+        },
+        {
+          "name": "Pakistan Meteorological Department",
+          "url": "https://www.pmd.gov.pk"
+        },
+        {
+          "name": "World Health Organization",
+          "url": "https://www.who.int"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": true
+    },
+    {
+      "id": "heatwave.recovery.001",
+      "disaster_type": "heatwave",
+      "phase": "recovery",
+      "title": "Heatwave recovery — watching for cumulative damage after the heat breaks",
+      "content": "**Even after the heatwave passes, several conditions show up over the following days.**\n\n**Watch in the 7–10 days after:**\n- Persistent fatigue, headaches, dizziness — possible delayed dehydration.\n- Dark urine, low urine output — kidney stress. Push fluids; if no improvement in 24 hours, see a doctor.\n- New muscle cramps, especially at night — electrolyte depletion. ORS, banana, dates.\n- Heart palpitations, chest discomfort in elderly or cardiac patients — same-day medical review.\n- Mood changes, low mood, sleep disruption — heat fatigue is real and recovery takes a week or more.\n\n**For someone who survived a heat-stroke episode:**\n- Follow the discharging hospital's protocol: rest, hydration, no outdoor exertion for at least a week.\n- Monitor for kidney function, neurological symptoms — ER follow-up if anything seems off.\n- Avoid further heat exposure for at least 2 weeks; the body's heat regulation is impaired post-stroke.\n\n**Resupply:**\n- ORS, water bottles, fan batteries — prepare for the next alert. Pakistan's heatwave season runs May–early July and increasingly into October in the coastal belt.\n\n**Community:**\n- Check on elderly neighbours. Heat-related deaths often come to light days after the worst day, when someone notices the absence.\n\n**Helplines:** 115 (Edhi ambulance), 1122 (Rescue), nearest DHQ hospital.",
+      "searchable_text": "heatwave recovery aftermath dehydration kidney elderly heat stroke followup pakistan",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": "https://ndma.gov.pk"
+        },
+        {
+          "name": "World Health Organization",
+          "url": "https://www.who.int"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": false
+    },
+    {
+      "id": "cyclone.prevention.001",
+      "disaster_type": "cyclone",
+      "phase": "prevention",
+      "title": "Cyclone risk reduction — coastal Sindh and Balochistan",
+      "content": "**The Arabian Sea is producing more named cyclones in the coastal belt: Yemyin (2007), Phet (2010), Biparjoy (2023), Asna (2024). Cyclone seasons: May–June and October–November.**\n\n**Where you live and build matters most:**\n- Setbacks from the high-tide line are non-negotiable in Gwadar, Pasni, Jiwani, Ormara, Karachi DHA Phase 8, Ibrahim Hyderi.\n- Single-storey concrete with a flat roof and shutters resists wind better than tin or thatch.\n- Window shutters / steel mesh save lives. Most cyclone injuries are from broken window glass.\n- For new builds: PDMA Sindh and PDMA Balochistan publish wind-load standards.\n\n**Boats and livelihoods:**\n- Identify a high-ground tethering point inland for fishing boats during the May–June and Oct–Nov windows.\n- Insure where you can. Sindh / Balochistan livelihoods schemes activate during cyclone declarations.\n\n**Documents and supplies:**\n- Waterproof zip bag with CNICs, property papers, photos.\n- 5+ days of food, water, batteries, ORS, basic medication. Coastal supply chains break for a week minimum.\n- Battery radio or hand-crank radio. Mobile networks fail.\n\n**Community plans:**\n- Know the nearest cyclone shelter (PDMA designates schools and government buildings as shelters during emergencies).\n- A pre-arranged inland relative or friend you can stay with for several days.\n- Phone tree: who calls whom when an alert is issued.\n\n**Subscribe to alerts:** PMD (pmd.gov.pk), PDMA Sindh, PDMA Balochistan, NDMA — all post real-time during a watch.",
+      "searchable_text": "cyclone prevention coastal sindh balochistan gwadar karachi pasni jiwani biparjoy boats setback wind shutters pdma",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": "https://ndma.gov.pk"
+        },
+        {
+          "name": "Pakistan Meteorological Department",
+          "url": "https://www.pmd.gov.pk"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": false
+    },
+    {
+      "id": "cyclone.before.001",
+      "disaster_type": "cyclone",
+      "phase": "before",
+      "title": "Cyclone preparedness — the 48 hours after a watch is issued",
+      "content": "**Cyclone watches are issued 48–72 hours out. Use that window.**\n\n**24–48 hours out:**\n- Confirm the alert with PMD (pmd.gov.pk). Note the projected landfall window and category.\n- Track via radio (FM 101, BBC Urdu, local stations) and PDMA Sindh / Balochistan social media.\n- Top up fuel for vehicles. Pumps run dry in the last 12 hours before landfall.\n- Withdraw cash. ATMs fail in coastal areas during outages.\n- Charge every phone, power bank, and battery-operated lamp.\n\n**12–24 hours out:**\n- Move boats inland. Tie them above the projected high-water mark.\n- Bring outdoor furniture, plant pots, corrugated sheets indoors. Anything light becomes a missile.\n- Tape windows in an X pattern (reduces glass spray) or fit shutters / plywood.\n- Move valuables and electronics to the highest interior floor.\n- Top up water containers — 5+ litres per person per day for 5 days.\n- Test the battery radio.\n\n**6–12 hours out:**\n- Eat a full meal — cooking later may not be possible.\n- Move livestock to higher ground if you can do so safely.\n- Go to the cyclone shelter if you live in a low-lying coastal area or in non-pucca housing.\n- Take essentials only: CNIC, cash, medications, phones, chargers, water, light food.\n\n**If officials order evacuation:** go. The single most fatal decision in past Pakistan cyclones was to ignore the order in the last 6 hours.\n\n**Helplines:** 1122, 115, PDMA Sindh 021-99211530, PDMA Balochistan 081-9202186.",
+      "searchable_text": "cyclone before preparedness watch alert evacuation shelter coastal sindh balochistan boats supplies pmd pdma",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": "https://ndma.gov.pk"
+        },
+        {
+          "name": "Pakistan Meteorological Department",
+          "url": "https://www.pmd.gov.pk"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": false
+    },
+    {
+      "id": "cyclone.after.001",
+      "disaster_type": "cyclone",
+      "phase": "after",
+      "title": "Cyclone aftermath — what to do once the eye has passed",
+      "content": "**Most cyclone deaths happen AFTER landfall, not during.** Storm surge, downed power lines, contaminated water.\n\n**Do not go outside until the official all-clear.** The eye of the storm is a temporary calm that will be followed by winds from the opposite direction, often more violent.\n\n**Once authorities declare safe:**\n\n**1. Hazards to expect:**\n- Downed power lines. Treat every wire as live. Stay 10 m away. Call WAPDA 118.\n- Storm surge can persist for hours after landfall. Coastal areas may still be flooding.\n- Broken glass, twisted metal sheets, fallen trees.\n- Snakes and stray animals displaced inland.\n\n**2. Check on others:**\n- Elderly neighbours, anyone with mobility issues.\n- Children — separated children should be brought to the nearest police post or PDMA shelter.\n\n**3. Health:**\n- Open wounds need cleaning + tetanus consideration. DHQ hospitals run free emergency care.\n- Drinking water is contaminated — boil 5+ minutes or use chlorine tablets until officials confirm tap supply is safe.\n- Watch for cholera, typhoid, hepatitis in the days following. Diarrhoea + fever in a child needs same-day medical attention.\n\n**4. Document and report:**\n- Photograph damage before cleaning.\n- Register with PDMA / district administration for relief.\n- BISP / Ehsaas opens a relief window for declared cyclone districts.\n\n**5. Don't return to a damaged structure** until a structural engineer or PDMA team clears it. Roofs and walls often fail days after the wind has stopped.\n\n**Helplines:** 1122, 115, NDMA 051-9205037, WAPDA 118.",
+      "searchable_text": "cyclone after aftermath storm surge downed lines health cholera shelter pdma bisp coastal pakistan",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": "https://ndma.gov.pk"
+        },
+        {
+          "name": "World Health Organization",
+          "url": "https://www.who.int"
+        },
+        {
+          "name": "Pakistan Red Crescent",
+          "url": "https://prcs.org.pk"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": false
+    },
+    {
+      "id": "fire.prevention.001",
+      "disaster_type": "fire",
+      "phase": "prevention",
+      "title": "Fire prevention — household checklist",
+      "content": "**Most home fires in Pakistan start from cooking, electrical faults, or LPG cylinders.**\n\n**Smoke detectors (the highest-impact intervention):**\n- Battery-powered smoke alarms are inexpensive and lifesaving. One per bedroom and one near the kitchen entry.\n- Test monthly, replace batteries yearly, replace the unit every 10 years.\n\n**Kitchen:**\n- Never leave cooking oil unattended.\n- Keep a fire blanket or large lid within arm's reach of the stove.\n- Don't store flammable items (cooking oil, paper, plastic containers) close to the burner.\n- LPG cylinders: ISO/PSQCA-marked only, kept upright, away from heat, with a pressure regulator in good condition.\n- Replace rubber gas hoses annually — cracked rubber is the #1 cylinder fire cause.\n\n**Electrical:**\n- Don't overload power strips. Multiple high-load appliances (geyser, AC, microwave) on one strip is a fire risk.\n- Replace frayed wires immediately. Don't bypass tripping breakers.\n- Avoid kacha extensions (twisted wires without proper sleeves) in plug points.\n- Have your earthing checked.\n\n**Heaters and geysers:**\n- Gas heaters should not be left running overnight or in sealed rooms — CO poisoning kills more Pakistanis in winter than people realise.\n- Geyser placement: well-ventilated, never inside a small bathroom.\n\n**Escape plan:**\n- Two ways out of every room.\n- Family meeting point outside the home.\n- Practice the escape with kids twice a year.\n\n**What to keep ready:**\n- Fire extinguisher (CO2 or dry chemical) in the kitchen and near the main panel.\n- A working flashlight by the bed.\n- Phone numbers for 16 (Fire) and 1122 (Rescue) saved.",
+      "searchable_text": "fire prevention home kitchen electrical lpg cylinder smoke detector escape plan pakistan ssgc sngpl",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": "https://ndma.gov.pk"
+        },
+        {
+          "name": "SSGC public safety advisories",
+          "url": "https://www.ssgc.com.pk"
+        },
+        {
+          "name": "SNGPL public safety advisories",
+          "url": "https://www.sngpl.com.pk"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": false
+    },
+    {
+      "id": "fire.during.multistorey.001",
+      "disaster_type": "fire",
+      "phase": "during",
+      "title": "Fire in a multi-storey building",
+      "content": "**Fires in older Pakistani multi-storey buildings (Saddar Karachi, Old Lahore, Rawalpindi commercial areas) are deadlier because of single staircases, poor ventilation, and combustible interior finishes.**\n\n**If the alarm sounds or you see smoke / smell burning:**\n\n**1. Use stairs. Never the elevator.** Lifts go to the fire floor. They can also lose power and trap occupants.\n\n**2. Test every door before opening.**\n- Touch with the back of your hand. If it's hot, do not open.\n- Use another route.\n\n**3. Crawl below the smoke.** Cleaner air is closer to the floor. Keep one hand on a wall to navigate.\n\n**4. Close doors behind you.** Each closed door buys you 10–20 minutes. This is what fire-resistance ratings are for.\n\n**5. If the corridor is impassable:**\n- Return to a room with a closeable door.\n- Seal the door bottom with wet towels / clothing.\n- Open a window — but do not break it unless the room is filling with smoke.\n- Wave a bright cloth from the window. Call 1122 and 16 from inside; tell them your exact floor and side of the building.\n\n**6. If clothing catches fire:** Stop, drop, roll. Running fans the flames.\n\n**7. After you exit:**\n- Stay out. Do NOT go back for belongings, pets, or other people unless trained.\n- Move at least 100 m from the building. Walls and glass continue to fail for hours.\n- Account for everyone at the family meeting point.\n\n**Multi-tenancy issues common in Pakistan:**\n- Many older commercial buildings have only one staircase. Know yours BEFORE there's a fire.\n- Locked roof access cuts off the secondary escape route. Petition building management.\n- Combustible cladding / decorations in shopping plazas — be aware on busy weekends.\n\n**Helplines:** 16 (Fire), 1122 (Rescue), 115 (Edhi).",
+      "searchable_text": "fire multistorey high rise building escape stairs elevator smoke karachi lahore commercial saddar",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": "https://ndma.gov.pk"
+        },
+        {
+          "name": "Pakistan Red Crescent",
+          "url": "https://prcs.org.pk"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": false
+    },
+    {
+      "id": "fire.after.001",
+      "disaster_type": "fire",
+      "phase": "after",
+      "title": "After a fire — re-entry, health, and rebuilding",
+      "content": "**Once Rescue 1122 / fire brigade declares the scene safe.**\n\n**1. Do not enter without authorisation.** Walls may collapse hours after the flames are out. Roofs warp under heat and fail later. The fire department's all-clear is the gate.\n\n**2. Health first:**\n- Smoke inhalation symptoms can show up hours later — persistent cough, hoarse voice, shortness of breath, headache, nausea. Get evaluated. AKUH, JPMC, Mayo, PIMS run 24/7 emergency.\n- Carbon monoxide is invisible and odourless. Anyone who was in heavy smoke needs an ER review.\n- Burn wounds: cover with clean dry cloth, see a hospital — even small burns can become serious infections without proper care.\n\n**3. Document:**\n- Photograph everything before cleaning.\n- Save receipts for any temporary lodging, repairs, replacement essentials.\n- Get a fire department incident report — required for most insurance claims and government relief.\n\n**4. Utilities:**\n- Do NOT switch on power until the wiring has been inspected by an electrician.\n- Do NOT use the gas line until SSGC / SNGPL has inspected (1199).\n- Boil any water from a fire-affected supply for 5+ minutes until the utility confirms it is safe.\n\n**5. Salvage:**\n- Sort items into clean / smoke-damaged / destroyed.\n- Smoke odour penetrates fabric, paper, and porous surfaces. Professional cleaning may be required.\n- Dispose of any food that was in a fire-affected room — heat damages packaging seals.\n\n**6. Mental health:**\n- Anxiety, sleep disruption, hypervigilance to smoke smells are common. Most ease in 2–4 weeks.\n- If symptoms persist or worsen, especially in children, call Rozan 0304-111-1741 or Umang 0311-7786264.\n\n**Helplines:** 16, 1122, 115, 1199 (gas), 118 (WAPDA).",
+      "searchable_text": "fire after aftermath smoke inhalation carbon monoxide rebuild insurance ssgc sngpl wapda mental health",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": "https://ndma.gov.pk"
+        },
+        {
+          "name": "World Health Organization",
+          "url": "https://www.who.int"
+        },
+        {
+          "name": "Pakistan Red Crescent",
+          "url": "https://prcs.org.pk"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": false
+    },
+    {
+      "id": "gas_leak.prevention.001",
+      "disaster_type": "gas_leak",
+      "phase": "prevention",
+      "title": "Gas leak prevention — pipes, cylinders, and geysers",
+      "content": "**Gas-related deaths in Pakistan span three distinct sources: cylinder leaks, SNGPL/SSGC piped-gas leaks, and CO poisoning from geysers and gas heaters in winter.**\n\n**Piped gas (SNGPL Punjab/KPK, SSGC Sindh/Balochistan):**\n- Annual safety inspection. Both utilities offer free leak checks on request.\n- Inspect rubber hoses where they meet the regulator and the appliance — replace if cracked, hardened, or older than 1 year.\n- The gas main valve location must be known to every adult in the home.\n- Don't seal kitchen ventilation. Gas accumulating in a sealed space is what causes the worst incidents.\n\n**LPG cylinders:**\n- Use only ISO / PSQCA-marked cylinders from registered dealers.\n- Keep cylinders upright, in a well-ventilated space, away from any heat source.\n- Test the connection with soapy water — bubbles indicate a leak.\n- Don't store cylinders in the kitchen if possible; a separate ventilated cubicle is safer.\n- Replace the regulator every 5 years. Cheap regulators leak.\n\n**Geysers (winter season):**\n- Place in a well-ventilated area. NEVER inside a small bathroom — CO buildup can kill within minutes.\n- Annual servicing of the burner, flue, and rubber seals.\n- Symptoms of CO poisoning: headache, dizziness, nausea, drowsiness, confusion. Get fresh air and call 115.\n- Battery-powered CO alarms are inexpensive — install one near every gas appliance.\n\n**Heaters:**\n- Gas heaters need ventilation. A cracked window is enough.\n- Turn off when leaving the room or sleeping.\n\n**What to do at the first whiff of gas:** see the during-leak entry.\n\n**Helplines:** SSGC/SNGPL 1199, Rescue 1122, Fire 16.",
+      "searchable_text": "gas leak prevention sngpl ssgc cylinder geyser carbon monoxide winter pakistan safety check ventilation",
+      "sources": [
+        {
+          "name": "SSGC public safety advisories",
+          "url": "https://www.ssgc.com.pk"
+        },
+        {
+          "name": "SNGPL public safety advisories",
+          "url": "https://www.sngpl.com.pk"
+        },
+        {
+          "name": "NDMA Pakistan",
+          "url": "https://ndma.gov.pk"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": false
+    },
+    {
+      "id": "gas_leak.during.cylinder.001",
+      "disaster_type": "gas_leak",
+      "phase": "during",
+      "title": "LPG cylinder leak — immediate response",
+      "content": "**A leaking cylinder is more dangerous than a leaking pipe — there is more gas under more pressure, and a BLEVE (boiling-liquid expanding vapour explosion) is a catastrophic failure mode.**\n\n**The instant you suspect a cylinder leak (smell of mercaptan / \"rotten egg\", hissing, frost on the valve):**\n\n**1. DO NOT:**\n- Switch any electrical on or off. The spark from a switch is enough to ignite gas.\n- Use mobile phones inside the building.\n- Light matches, lighters, candles.\n- Ring doorbells, intercoms, fans, ACs.\n\n**2. DO:**\n- Open every window and door immediately. Cross-ventilation pushes gas out.\n- Turn off the cylinder valve (clockwise) at the top of the cylinder.\n- Get everyone out of the building.\n- Carry the cylinder outdoors to an open area — but ONLY if you can do so safely. Keep it upright. If the leak is severe (loud hissing, frost, fire near the valve) — leave it and evacuate.\n- From outside, at a safe distance (at least 50 m), call 1199 and 16.\n- Warn neighbours.\n\n**3. If the cylinder is on fire:**\n- Do NOT try to extinguish the flame. A burning leak is safer than an unburnt one because the gas is being consumed as it escapes.\n- Evacuate to 100+ m. Keep everyone behind concrete or earth cover if possible.\n- Call 16 and 1122 immediately.\n- Wait for the fire brigade. They will cool the cylinder and let the fire burn out.\n\n**4. After the leak is contained:**\n- Do not return until the gas company / fire department has cleared the building.\n- Have your gas connections, cylinder valve, regulator, and rubber hose all replaced or inspected.\n- Ventilate the building thoroughly before any electrical use.\n\n**Helplines:** 1199 (SSGC/SNGPL), 16 (Fire), 1122, 115.",
+      "searchable_text": "gas leak cylinder lpg bleve fire emergency ventilation valve sngpl ssgc pakistan",
+      "sources": [
+        {
+          "name": "SSGC public safety advisories",
+          "url": "https://www.ssgc.com.pk"
+        },
+        {
+          "name": "SNGPL public safety advisories",
+          "url": "https://www.sngpl.com.pk"
+        },
+        {
+          "name": "NDMA Pakistan",
+          "url": "https://ndma.gov.pk"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": false
+    },
+    {
+      "id": "gas_leak.after.001",
+      "disaster_type": "gas_leak",
+      "phase": "after",
+      "title": "After a gas leak — re-entry and inspection",
+      "content": "**The aftermath of a gas leak is its own risk window. Residual gas, weakened seals, and CO exposure can all cause harm after the immediate scare is over.**\n\n**Do not re-enter the building** until SSGC/SNGPL or the fire department clears it. They will use a gas detector that is far more sensitive than human smell.\n\n**Once cleared:**\n\n**1. Inspection (have an authorised technician, not a casual plumber):**\n- Replace the leaking component plus any adjacent hose/regulator/valve.\n- Pressure-test the line from the meter to each appliance.\n- Check appliance burners — yellow flame indicates incomplete combustion (CO risk); the flame should be blue.\n\n**2. Ventilation:**\n- Keep windows open for several hours after re-entry, even if you can no longer smell gas.\n- Run kitchen exhausts. Don't seal vents back up immediately.\n\n**3. Health follow-up — within 24–48 hours:**\n- If anyone was in the gassy space, watch for delayed CO symptoms: persistent headache, dizziness, fatigue, nausea, confusion, chest pain.\n- Pregnant women, infants, elderly, and anyone with cardiac conditions should be evaluated at a hospital even after a brief exposure.\n- Get a baseline pulse oximetry reading; CO can drop oxygen delivery without lowering SpO2 (CO-Hgb mimics oxygen on most pulse oximeters), so trust symptoms over the number.\n\n**4. Documentation:**\n- Save the SSGC/SNGPL service report.\n- Photographs of the leaking component and any damage.\n- Insurance and tenancy disputes both rely on this paperwork.\n\n**5. Prevention going forward:**\n- See the gas-leak prevention entry.\n- Annual safety inspection — both utilities offer free leak checks.\n- Replace rubber hoses yearly; replace regulators every 5 years.\n\n**Helplines:** SSGC/SNGPL 1199, Rescue 1122, Edhi 115.",
+      "searchable_text": "gas leak after aftermath inspection sngpl ssgc carbon monoxide health cylinder pakistan ventilation",
+      "sources": [
+        {
+          "name": "SSGC public safety advisories",
+          "url": "https://www.ssgc.com.pk"
+        },
+        {
+          "name": "SNGPL public safety advisories",
+          "url": "https://www.sngpl.com.pk"
+        },
+        {
+          "name": "World Health Organization",
+          "url": "https://www.who.int"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": false
+    },
+    {
+      "id": "building_collapse.before.001",
+      "disaster_type": "building_collapse",
+      "phase": "before",
+      "title": "Building collapse prevention — retrofitting and recognising warning signs",
+      "content": "**Pakistan has a long history of structural collapses outside of earthquakes: Margalla Towers (2005, foundation failure post-quake), Karachi residential blocks (recurring), Lahore factory collapses, illegal additions on older RCC frames.**\n\n**Warning signs that a building is failing (call PDMA / Rescue 1122):**\n- New diagonal cracks in load-bearing walls. Diagonal = shear failure.\n- Cracks that appear or widen rapidly over days/weeks.\n- Doors and windows that no longer close properly because frames have shifted.\n- Sloping floors. Visibly tilted exterior walls.\n- Concrete spalling — exterior concrete cracking off and exposing rebar. Especially after rain/monsoon.\n- Sounds: groaning, creaking, popping when someone walks across a floor.\n- Sagging beams or floors.\n\n**Risk factors for an existing building:**\n- Built before BCP-2007 enforcement (Building Code of Pakistan) — most older urban housing.\n- Illegal additional floors. The original foundation was not designed for the added load.\n- Sub-standard construction (wrong cement-to-sand ratio, undersize rebar, hollow blocks where solid was specified).\n- Adjacent excavation / construction undermining the foundation.\n- Recent flooding around the foundation.\n- Earthquake history without a structural inspection afterwards.\n\n**What to do:**\n- Hire a registered structural engineer for a condition assessment. Several PEC-licensed firms offer one-day visual inspections.\n- Request a PDMA / district administration vulnerability survey if you suspect the building is genuinely unsafe.\n- Don't rely on a contractor's verbal \"it's fine.\"\n- Retrofit options vary by building type — wall ties, base bolting, jacketing of columns, additional moment frames. Costs scale with severity.\n\n**If the engineer flags it as unsafe and you can't afford a retrofit:** evacuate, document, file with PDMA. Loss of housing is real but loss of life is permanent.\n\n**Helplines:** PDMA Punjab 042-99205316, PDMA Sindh 021-99211530, PDMA KPK 091-9212689, NDMA 051-9205037.",
+      "searchable_text": "building collapse before prevention retrofit warning signs cracks structural engineer pec bcp pakistan",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": "https://ndma.gov.pk"
+        },
+        {
+          "name": "Geological Survey of Pakistan",
+          "url": "https://www.gsp.gov.pk"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": false
+    },
+    {
+      "id": "building_collapse.during.witness.001",
+      "disaster_type": "building_collapse",
+      "phase": "during",
+      "title": "Witnessing a building collapse",
+      "content": "**If you see a building collapse — or are nearby when one happens — your first job is to NOT become a second casualty.**\n\n**1. Move to a safe distance.** At least 100 m, preferably with concrete cover between you and the building. Secondary collapses are common in the minutes and hours after the initial failure.\n\n**2. Call Rescue 1122 immediately.** Provide:\n- Exact street address + nearest landmark + district.\n- Approximate number of people you think were inside.\n- Any visible hazards: gas line ruptures, electrical sparks, fire, water main breaks.\n- Whether you can see any survivors at the surface.\n\n**3. Keep bystanders away.** Crowds at a collapse site:\n- Get hurt by secondary collapses.\n- Block ambulances and fire engines.\n- Move debris in ways that crush or suffocate trapped survivors below.\n\n**4. DO NOT dig** unless you are part of an organised SAR team. Untrained digging is the leading cause of preventable trapped-survivor deaths. You can:\n- Cause secondary collapse.\n- Cut survivors with displaced rebar / glass.\n- Suffocate them by collapsing the small air pocket that's keeping them alive.\n\n**5. What you CAN safely do:**\n- Listen for tapping, voices. Note the location and tell first responders.\n- Mark the perimeter so others stay back.\n- Direct ambulance / fire to the entrance.\n- Note the time of collapse — it matters for rescue planning.\n\n**6. After Rescue 1122 takes charge:** follow their instructions. Pakistan Army Engineering Corps deploys for major incidents and they run the scene; civilian helpers are valuable when organised.\n\n**Pakistan SAR resources:**\n- Rescue 1122 has urban-SAR teams in major cities.\n- Pakistan Army Engineering Corps for large incidents.\n- Civil Defence assists with scene management.\n\n**Helplines:** 1122, 115, 1199 (gas), 16 (fire).",
+      "searchable_text": "building collapse witness rescue 1122 sar urban search rescue pakistan army secondary collapse",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": "https://ndma.gov.pk"
+        },
+        {
+          "name": "Pakistan Red Crescent",
+          "url": "https://prcs.org.pk"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": false
+    },
+    {
+      "id": "building_collapse.after.001",
+      "disaster_type": "building_collapse",
+      "phase": "after",
+      "title": "After a building collapse — affected residents and neighbours",
+      "content": "**For anyone displaced by a collapse, or living in an adjacent building.**\n\n**1. Don't go back in.** Even if your unit looks fine, the structure may have lost integrity. Wait for a structural engineer's clearance.\n\n**2. Adjacent buildings:**\n- Have your building re-inspected. Foundation movement on one side often affects the next.\n- Watch for new cracks over the following days.\n- If your building shares a wall with the collapsed one, evacuate as a precaution and request a PDMA survey.\n\n**3. For residents who survived being trapped:**\n- ER evaluation is mandatory even if you walked out. Crush injuries, internal bleeding, rhabdomyolysis can show up hours later.\n- Mental-health support: PTSD, sleep disruption, hypervigilance are normal after entrapment. Reach out — Rozan 0304-111-1741, Umang 0311-7786264.\n- Compensation and rehousing: file with district administration and PDMA. NGO support (Edhi, Chhipa, Saylani) often runs in parallel.\n\n**4. Documentation:**\n- Photographs of the collapse and your unit before any clean-up.\n- Lease, property documents, inventory of lost belongings (best you can recall).\n- The fire / Rescue 1122 incident report.\n\n**5. Investigation:**\n- Major collapses are typically followed by NDMA / PDMA / district investigations. Cooperate fully.\n- If the building's owner / contractor was cutting corners, the case may go to court. Documentation is your only leverage.\n\n**6. Long term:**\n- Don't rush to move into another older building without a structural assessment.\n- Learn the warning signs (see the prevention entry) so you can move out of the next failing building before it fails.\n\n**Helplines:** 1122, 115, NDMA 051-9205037, PDMA local.",
+      "searchable_text": "building collapse after aftermath survivor neighbour displacement pdma structural inspection mental health pakistan",
+      "sources": [
+        {
+          "name": "NDMA Pakistan",
+          "url": "https://ndma.gov.pk"
+        },
+        {
+          "name": "Pakistan Red Crescent",
+          "url": "https://prcs.org.pk"
+        },
+        {
+          "name": "World Health Organization",
+          "url": "https://www.who.int"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": false
+    },
+    {
+      "id": "electric_shock.prevention.001",
+      "disaster_type": "electric_shock",
+      "phase": "prevention",
+      "title": "Electric shock prevention — Pakistan-specific household risks",
+      "content": "**Electric shock is one of the most common preventable injuries in Pakistan: kacha electrical extensions, water-logged streets in monsoon, illegal connections, faulty earthing.**\n\n**Highest-impact household interventions:**\n\n**1. Earthing.** Have a qualified electrician check the earthing resistance. Anything above ~5 ohms is bad. Earthing is what saves you when an appliance casing develops a fault.\n\n**2. Residual current device (RCD / ELCB / GFCI).** A 30 mA RCD on the bathroom and outdoor circuits trips on body-leakage current and can save a life. Inexpensive; require an electrician for installation.\n\n**3. Replace kacha extensions.** Twisted bare wires in plug points are electrical Russian roulette. Use moulded multi-plugs with built-in fuses.\n\n**4. Don't overload.** Geyser + AC + microwave on one strip is a fire and shock risk. Distribute load across circuits.\n\n**5. Bathroom safety.**\n- No portable heaters or extension cords in the bathroom.\n- Geyser switch outside the bathroom or with proper damp-rated enclosure.\n- Don't touch any switch with wet hands.\n\n**6. Outdoor and rooftop:**\n- Don't fly kites near power lines (a recurring monsoon-season fatality).\n- During load-shedding, never poke at a streetlight pole or transformer.\n- Do not stand on a wet roof and touch any installed electrical fitting.\n\n**7. Monsoon-specific:**\n- Avoid puddles near transformers, electric poles, KE / LESCO junction boxes — flooded water around these is electrified.\n- Switch off the main breaker BEFORE flood water enters the home.\n- After flooding, do not re-energise until an electrician inspects.\n\n**8. Children:**\n- Plug-point safety covers.\n- Keep extension cords coiled and out of reach.\n\n**Symptoms warranting a 115/1122 call even after a \"minor\" shock:**\n- Loss of consciousness, even briefly.\n- Burns at entry/exit points.\n- Chest pain, irregular heartbeat.\n- Confusion.\n- Any high-voltage exposure (lightning, transformer, overhead line).\n\n**Helplines:** 115 (Edhi), 1122 (Rescue), 118 (WAPDA / power emergency), KE (Karachi) 118.",
+      "searchable_text": "electric shock prevention household earthing rcd bathroom monsoon kacha extension wapda lesco ke pakistan",
+      "sources": [
+        {
+          "name": "Pakistan Red Crescent",
+          "url": "https://prcs.org.pk"
+        },
+        {
+          "name": "NDMA Pakistan",
+          "url": "https://ndma.gov.pk"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": false
+    },
+    {
+      "id": "electric_shock.during.isolation.001",
+      "disaster_type": "electric_shock",
+      "phase": "during",
+      "title": "Electric shock — isolating power and rescuing the victim",
+      "content": "**The first rule of electric-shock rescue: do NOT touch a victim still in contact with live electricity. You will become the next casualty.**\n\n**Step 1: Cut the power.**\n\n- Find the main breaker / mains switch and turn it off.\n- For a single appliance: unplug it at the wall (use a dry hand, dry footing).\n- For a household / building: turn off the main MCB at the meter cabinet.\n\n**If you cannot reach the breaker:**\n\n- Use a **dry, non-conductive object** to push the source away from the victim.\n  - Dry wooden stick, broom handle, plastic chair leg — these are insulators if dry.\n  - Never use anything metal, never use anything wet.\n- Stand on a dry surface — rubber mat, dry plastic, dry wooden plank.\n- Push the source away from the victim, not the other way around.\n\n**For high-voltage exposure (overhead lines, transformer, lightning strike):**\n\n- Stay AT LEAST 10 m AWAY. High-voltage current can arc through the air to anyone within ~6 m.\n- Do not approach. Do not let bystanders approach.\n- Call WAPDA (118) and Rescue 1122 immediately.\n- Wait for the line to be confirmed de-energised before any rescue attempt.\n- \"Step voltage\" — voltage gradient in the ground around a downed line — can shock you through your feet. If you have to retreat from a downed line, hop with feet together or shuffle in tiny steps.\n\n**Step 2: Once safe to touch.**\n\n- Check responsiveness — tap shoulder firmly, shout.\n- Check breathing. If absent or only gasping: start hands-only CPR (see CPR card).\n- Call **115 / 1122** immediately. Stay on the line.\n\n**Step 3: Even minor shocks need ER review.**\n\n- Internal injuries (heart rhythm, kidney damage from rhabdomyolysis) are not visible.\n- Brief loss of consciousness, however short → ER.\n- Chest pain or irregular heartbeat → ER.\n- Burns at entry/exit → ER.\n\n**Step 4: Don't let the victim refuse the hospital.** Many electric-shock victims feel \"fine\" for the first hour and then have cardiac arrhythmias hours later.\n\n**Helplines:** 115, 1122, 118 (WAPDA), KE 118.\n\n⚠️ **Medical Disclaimer:** This is basic first-aid guidance only. For serious injuries or medical emergencies, call **115** or **1122** immediately. Do not attempt procedures beyond your training.",
+      "searchable_text": "electric shock during isolation rescue power breaker overhead line wapda step voltage cpr pakistan",
+      "sources": [
+        {
+          "name": "Pakistan Red Crescent",
+          "url": "https://prcs.org.pk"
+        },
+        {
+          "name": "Red Cross First Aid",
+          "url": "https://www.redcross.org/take-a-class/first-aid"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": true
+    },
+    {
+      "id": "electric_shock.during.assessment.001",
+      "disaster_type": "electric_shock",
+      "phase": "during",
+      "title": "Electric shock — assessing the victim once safe to touch",
+      "content": "**Once the source is de-energised and the victim is safe to touch, the priority is assessing what you cannot see.**\n\n**1. ABC: Airway, Breathing, Circulation.**\n- Airway: tilt head, lift chin. Clear obstructions.\n- Breathing: look, listen, feel for 5–10 seconds. Chest rise. Normal rhythm.\n- Circulation: pulse at the carotid (neck) or radial (wrist).\n\n**2. If not breathing or only gasping → CPR.**\n- See the CPR first-aid card. Hands-only CPR for adults: centre of chest, hard and fast, 100–120 compressions per minute.\n- Call 115 / 1122 immediately. Put the phone on speaker — operators guide you.\n\n**3. If breathing but unconscious:**\n- Place in the recovery position (on their side).\n- Keep airway open.\n- Don't move them if you suspect a fall or spine injury — stabilise the head between two firm objects (rolled towels) and wait for paramedics.\n\n**4. If conscious and walking:**\n- They still need ER review. Cardiac arrhythmias, internal burns, kidney injury can develop hours later.\n- Don't let them refuse the hospital.\n\n**5. Visible burns:**\n- Cover with a clean dry cloth. Don't apply creams, butter, toothpaste, sui-gas paste, or anything else.\n- Note the entry and exit points — this is what the ER team needs to know.\n\n**6. Falls from height:**\n- Many electric-shock injuries come with a secondary fall (off a ladder, off a roof). Treat as suspected spine injury until cleared.\n- Do not let the victim \"walk it off.\"\n\n**7. What to tell the ambulance:**\n- Voltage if known (mains 220V, generator, three-phase, overhead).\n- Duration of contact.\n- Time of incident.\n- Loss of consciousness — yes/no, duration.\n- Burns — location, approximate size.\n- Any other injuries.\n\n**8. After arrival at the hospital:**\n- They will check ECG (cardiac rhythm monitoring for several hours).\n- Blood tests for muscle breakdown (CK levels).\n- Urine output monitoring (rhabdomyolysis indicator).\n\n**Helplines:** 115, 1122, KE 118, WAPDA 118.\n\n⚠️ **Medical Disclaimer:** This is basic first-aid guidance only. For serious injuries or medical emergencies, call **115** or **1122** immediately. Do not attempt procedures beyond your training.",
+      "searchable_text": "electric shock during assessment cpr abc airway breathing circulation burns falls hospital pakistan",
+      "sources": [
+        {
+          "name": "Pakistan Red Crescent",
+          "url": "https://prcs.org.pk"
+        },
+        {
+          "name": "American Heart Association",
+          "url": "https://www.heart.org"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": true
+    },
+    {
+      "id": "electric_shock.after.001",
+      "disaster_type": "electric_shock",
+      "phase": "after",
+      "title": "After an electric shock — follow-up and prevention",
+      "content": "**Even after ER discharge, electric-shock recovery extends for days to weeks.**\n\n**1. ER follow-up:**\n- Most patients are observed for several hours after a low-voltage shock; for high-voltage, 24+ hours.\n- Discharge instructions typically cover: signs of cardiac arrhythmia (palpitations, chest pain, fainting), kidney problems (low urine output, dark urine), and burn care.\n- Follow up with a cardiologist if arrhythmia was detected.\n- Get a structured ECG follow-up at 24 and 72 hours if symptoms persist.\n\n**2. Burn care:**\n- Electrical burns often look small at the entry/exit points but tunnel through tissue. Some require surgical debridement weeks later.\n- Daily wound check. See a doctor if redness expands, pus develops, or you spike a fever.\n- Tetanus booster if not current.\n\n**3. Source investigation — don't re-energise without it:**\n- Have an electrician find what caused the shock. The same fault has caused fatalities elsewhere.\n- Common findings: corroded earthing, faulty appliance, illegal joint, kacha extension.\n- Replace and re-test before turning power back on.\n\n**4. WAPDA / KE / LESCO complaint:**\n- If the shock came from a streetlight pole, downed line, or municipal transformer, file a complaint (118 for WAPDA / KE).\n- Follow up in writing — verbal complaints are easy to lose.\n\n**5. Mental health follow-up:**\n- Electric-shock survivors often report sleep disruption, anxiety around electrical appliances, and intrusive memories. These usually fade in 2–4 weeks.\n- If symptoms worsen or persist, call Rozan (0304-111-1741) or Umang (0311-7786264).\n\n**6. Prevention going forward:**\n- Install RCD / ELCB / GFCI on the bathroom and outdoor circuits.\n- Replace kacha extensions throughout the house.\n- Inspect monsoon-vulnerable wiring.\n\n**Helplines:** 115, 1122, 118 (WAPDA / KE).",
+      "searchable_text": "electric shock after aftermath ecg cardiac burn rcd elcb gfci wapda follow up pakistan mental health",
+      "sources": [
+        {
+          "name": "Pakistan Red Crescent",
+          "url": "https://prcs.org.pk"
+        },
+        {
+          "name": "World Health Organization",
+          "url": "https://www.who.int"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": false
+    },
+    {
+      "id": "mental_health.during.children.001",
+      "disaster_type": "mental_health",
+      "phase": "during",
+      "title": "Helping children process disaster trauma",
+      "content": "**Children are not small adults. Their reactions to disaster look different — and what helps adults often doesn't help children.**\n\n**Common reactions in the first weeks (and what they look like):**\n- **Regression:** bedwetting, thumb-sucking, baby talk in older children.\n- **Clinginess:** following parents room-to-room, refusing to sleep alone.\n- **School refusal:** stomachaches on school mornings, refusing to leave the house.\n- **Nightmares and sleep disruption.**\n- **Aggressive play, drawing the disaster repeatedly** — this is processing, not pathology, when it gradually decreases.\n- **Quiet withdrawal** — sometimes harder to spot than tantrums but equally serious.\n- **Physical complaints** — headaches, stomach pain without medical cause.\n- **Hypervigilance** — flinching at loud noises, asking repeatedly if it will happen again.\n\n**What helps:**\n- **Routine.** Same wake time, same bedtime, same meal times. Routine signals to the brain that the world is predictable again.\n- **Physical reassurance.** Hugs. Sitting close. Holding hands during conversation. Younger children especially need touch.\n- **Honest, age-appropriate language.** Don't say \"everything is fine\" if it isn't. Do say \"we're safe right now and I'm here.\"\n- **Limit news and disaster footage.** Especially graphic content. Re-traumatising.\n- **Let them talk or draw.** Don't push, don't dismiss. \"I see you drew the building falling. Tell me about it\" is better than \"don't think about that.\"\n- **Maintain school attendance.** If possible. School is a normalising structure. Tell the teacher what's happening so they can support, not push.\n- **One-on-one time.** 15 minutes a day where the parent is not on a phone, just present.\n\n**When to seek professional help:**\n- Symptoms that worsen rather than ease in 4–6 weeks.\n- Self-harm or suicide talk — call 115 immediately or take to a hospital ER.\n- Refusal to eat, severe weight loss.\n- Inability to function — can't go to school, can't sleep at all, can't be left alone.\n- Aggressive behaviour that endangers themselves or others.\n\n**Free counseling resources (Pakistan):**\n- **Rozan Counseling Helpline** — 0304-111-1741 (psychosocial, child protection).\n- **Umang** — 0311-7786264 (24/7 mental health helpline).\n- **Madadgar Child Helpline** — 1098 (child protection, abuse).\n- District psychiatric departments at DHQ hospitals.\n\n⚠️ **Note:** This is supportive guidance, not medical treatment. Severe or persistent issues need a qualified mental health professional.",
+      "searchable_text": "mental health children disaster trauma kids regression nightmares school routine madadgar rozan umang pakistan",
+      "sources": [
+        {
+          "name": "World Health Organization",
+          "url": "https://www.who.int"
+        },
+        {
+          "name": "Rozan Counseling Helpline",
+          "url": "https://rozan.org"
+        },
+        {
+          "name": "Umang Pakistan",
+          "url": "https://umang.com.pk"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": true
+    },
+    {
+      "id": "mental_health.during.guilt.001",
+      "disaster_type": "mental_health",
+      "phase": "during",
+      "title": "Survivor's guilt and disaster-related shame",
+      "content": "**\"Why me? Why did I survive when they didn't?\" Survivor's guilt is one of the most common and least-discussed reactions to a disaster.**\n\n**What it can look like:**\n- Persistent thoughts of \"I should have done more / I should have saved them.\"\n- Intrusive memories focused on the moment of survival vs the moment of others' deaths.\n- Difficulty enjoying anything — eating, sleeping, family time — because \"they can't.\"\n- Avoiding people, places, or topics that remind you of the event.\n- A flat, numb feeling rather than active grief.\n- Sometimes self-punishing behaviour — overworking, refusing rest, refusing help.\n\n**What helps (and what doesn't):**\n\n**Helps:**\n- **Speak it.** Survivor's guilt is famously private. Naming it to a trusted person breaks part of its hold.\n- **A simple cognitive reframe:** survival is not a fault. The things that decided who lived and died were rarely under any individual's control. The earthquake didn't choose. The flood didn't choose.\n- **Channel into action — but only if it's the right time.** Helping others (Edhi, Chhipa, Pakistan Red Crescent volunteer work, blood donation) gives a sense of purpose. But early on, rest matters more.\n- **Religious / spiritual practices** — for many Pakistanis, prayer, dua, going to the mosque/church/mandir/gurdwara is part of meaning-making. If it helps, use it.\n- **Professional support.** Trauma-focused therapy is effective. Several Pakistan psychologists (Pakistan Psychological Association directory) offer trauma-specific care.\n\n**Doesn't help:**\n- \"Move on, others have it worse.\" Comparative suffering is not a healing tool.\n- Numbing with alcohol, paan, gutka, sleeping pills without medical supervision.\n- Endless rehearsal of the event alone, without an outlet.\n\n**When to seek professional help:**\n- Suicidal thoughts. Even fleeting ones. Call 115 immediately.\n- Self-harm.\n- Inability to function for more than 4–6 weeks.\n- Increasing rather than decreasing intensity of symptoms.\n- Substance use to cope.\n- Severe sleep disruption (less than 4 hours/night for more than a week).\n\n**Free counseling lines:**\n- **Rozan Counseling Helpline** — 0304-111-1741.\n- **Umang** — 0311-7786264 (24/7).\n- **Taskeen** — taskeen.org (online resources).\n- DHQ psychiatry departments are free emergency referrals.\n\n⚠️ **Note:** This is supportive guidance, not medical treatment.",
+      "searchable_text": "mental health survivors guilt shame disaster trauma reframe rozan umang taskeen pakistan",
+      "sources": [
+        {
+          "name": "World Health Organization",
+          "url": "https://www.who.int"
+        },
+        {
+          "name": "Rozan Counseling Helpline",
+          "url": "https://rozan.org"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": true
+    },
+    {
+      "id": "mental_health.during.red_flags.001",
+      "disaster_type": "mental_health",
+      "phase": "during",
+      "title": "Mental health red flags — when to seek professional help",
+      "content": "**Most people recover from a disaster's psychological impact in weeks. A minority don't, and the gap between \"this is normal\" and \"this needs help\" is the most useful thing to know.**\n\n**It's normal to have, in the first 3–4 weeks:**\n- Sleep disruption, vivid dreams.\n- Hypervigilance — flinching at sounds, scanning rooms.\n- Intrusive memories that come and go.\n- Anxiety, irritability, anger.\n- Difficulty concentrating.\n- Mood swings.\n- Avoidance of disaster-related places or topics.\n- Numbness alternating with strong emotion.\n\n**These usually ease as routine returns and time passes.**\n\n**Red flags — get professional help:**\n\n**Acute (call 115 / nearest ER immediately):**\n- Suicidal thoughts, plans, or attempts.\n- Self-harm.\n- Hallucinations (seeing or hearing things others don't).\n- Severe dissociation (feeling unreal, disconnected from body for hours).\n- Plans to harm someone else.\n\n**Subacute (this week, not \"someday\"):**\n- Symptoms worsen rather than ease after 4 weeks.\n- Inability to function — can't work, can't care for children, can't leave bed.\n- Sleep less than 4 hours per night for more than a week.\n- Substance use to cope (alcohol, sedatives, paan/gutka, prescription drug abuse).\n- Severe panic attacks several times a week.\n- Persistent intrusive memories that disrupt daily activity.\n- Self-isolating from family — refusing meals, not speaking.\n- New onset depression — pervasive low mood, loss of pleasure in everything.\n\n**For children, additional red flags:**\n- Self-harm.\n- Talking about death, \"going away,\" \"joining\" deceased relatives.\n- Severe regression that doesn't resolve.\n- Refusing to eat.\n- Dramatic personality change.\n\n**Where to go:**\n- **Rozan Counseling Helpline** — 0304-111-1741.\n- **Umang** — 0311-7786264 (24/7, but explicitly NOT for active suicidal cases — for those, 115).\n- **Taskeen** — taskeen.org (online resources, Pakistan Psychological Association directory).\n- **Government hospitals** — psychiatry departments at AKUH, JPMC, Mayo, PIMS, LRH, KTH.\n- **Pakistan Psychological Association directory** for paid private psychologists.\n- **District Health Officer** — every district has at least one mental-health staff position.\n\n**A note on stigma:** seeking mental health support after a disaster is treatment, not weakness. The 2005 Kashmir quake, 2010 and 2022 floods all left documented mental health tails that benefited from professional care.\n\n⚠️ **Note:** This is supportive guidance. Active crises need immediate professional intervention.",
+      "searchable_text": "mental health red flags warnings professional help suicide self harm depression rozan umang taskeen pakistan",
+      "sources": [
+        {
+          "name": "World Health Organization",
+          "url": "https://www.who.int"
+        },
+        {
+          "name": "Rozan Counseling Helpline",
+          "url": "https://rozan.org"
+        },
+        {
+          "name": "Umang Pakistan",
+          "url": "https://umang.com.pk"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": true
+    },
+    {
+      "id": "mental_health.during.grief.001",
+      "disaster_type": "mental_health",
+      "phase": "during",
+      "title": "Grief after disaster — supporting yourself and others",
+      "content": "**Disaster grief is different from other grief — it can be sudden, public, and tangled with logistical chaos. Grieving in the middle of a relief operation is its own challenge.**\n\n**The early hours and days:**\n- Shock and numbness are normal. People often describe feeling \"outside themselves\" for the first 24–72 hours.\n- Reflexive caretaking (\"I have to be strong for the children\") is common — and usually means grief delayed, not avoided.\n- Eat and drink even when you don't want to. Dehydration and low blood sugar make grief physically harder.\n- Sleep when you can. Don't medicate yourself into sleep without a doctor.\n\n**The first weeks:**\n- Waves of grief — strong emotion alternating with quiet — are how grief moves. There is no order.\n- Anger, including anger at the deceased, at God, at responders, at yourself, is a normal grief emotion. It is not disrespectful.\n- Crying or not crying are both fine. Some people grieve quietly.\n- Cultural and religious practices — janazah, soyem, chaliswan, dua, prayer, going to the qabristan — are part of how Pakistanis grieve. Use what feels right.\n\n**Practical support for the bereaved:**\n\n**Help with logistics, not philosophy.**\n- Bring food. Keep a thermos of water near them.\n- Take over the phone for a few hours so they can rest.\n- Help with paperwork (death certificate, insurance, BISP).\n- Take the children for an afternoon.\n\n**What to say:**\n- \"I'm so sorry. I'm here.\"\n- \"I don't know what to say but I'm not going anywhere.\"\n- \"Tell me about them\" (when the bereaved is ready).\n\n**What NOT to say:**\n- \"Everything happens for a reason.\" (Pakistanis hear this a lot. It mostly hurts.)\n- \"Be strong for the children.\"\n- \"At least…\" (any sentence that starts this way).\n- \"It was their time.\" (Don't impose your theology on someone else's grief.)\n- \"You'll get over it.\"\n\n**Anniversaries and reminders:**\n- The Eid that was their last Eid. Their birthday. The disaster anniversary. These dates remain hard for years.\n- Acknowledge them. A short message means a lot.\n\n**When grief becomes complicated grief (warrants professional help):**\n- After 6 months: persistent intense yearning that prevents daily function.\n- Inability to accept the loss, even months later.\n- Severe withdrawal, refusal to engage.\n- Self-harm or suicidal thoughts.\n- Inability to work, parent, or care for self.\n\n**Free counseling support:**\n- **Rozan Counseling Helpline** — 0304-111-1741.\n- **Umang** — 0311-7786264.\n- Religious leaders, when trusted, can also offer pastoral support.\n\n⚠️ **Note:** This is supportive guidance. If you are in crisis, please call 115 immediately.",
+      "searchable_text": "mental health grief disaster bereavement loss janazah complicated grief support rozan umang pakistan",
+      "sources": [
+        {
+          "name": "World Health Organization",
+          "url": "https://www.who.int"
+        },
+        {
+          "name": "Rozan Counseling Helpline",
+          "url": "https://rozan.org"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": true
+    },
+    {
+      "id": "first_aid.during.hypothermia.001",
+      "disaster_type": "general",
+      "phase": "during",
+      "title": "First aid — hypothermia (cold injury)",
+      "content": "⚠️ **For severe cold injury or anyone who is not responding normally, call 115 or 1122 immediately.**\n\n**Where it happens in Pakistan:**\n- GB, AJK, northern KPK winters: Skardu, Hunza, Chitral, Murree, Naran-Kaghan, Galyat.\n- High-altitude trekking, snowstorm-stranded vehicles.\n- Flood victims who spend hours in cold water.\n- Homeless individuals during winter cold snaps in Punjab and KPK.\n\n**Recognise hypothermia:**\n\n**Mild (35–32°C body temperature):**\n- Persistent shivering.\n- Cold, pale skin.\n- Slowed responses, mumbled speech, clumsy hands.\n- Confusion that comes and goes.\n\n**Moderate to severe (below 32°C):**\n- Shivering may stop (a dangerous sign).\n- Severe confusion, disorientation.\n- Drowsiness, unconsciousness.\n- Slow, weak, irregular pulse.\n- Slow breathing.\n- Stiff muscles. Possibly \"paradoxical undressing\" — patient strips clothing.\n\n**First aid:**\n\n**1. Get them out of the cold.** Move to shelter. If shelter isn't available, build a barrier from wind (rocks, snow wall, vehicle).\n\n**2. Remove wet clothing.** Replace with dry layers. If no dry clothing, wring out wet clothes and put back on as a partial barrier.\n\n**3. Insulate from the ground.** Cold ground draws heat fast. Sleeping bag, blankets, even backpacks under the body.\n\n**4. Re-warm gradually.**\n- Cover head, neck, torso, and groin first — these are the heat-loss centres.\n- Skin-to-skin contact under blankets is highly effective if a willing helper is available.\n- Warm sweet drinks if conscious and able to swallow safely.\n- DO NOT use hot water bottles directly on cold skin (burn risk on numb skin).\n- DO NOT submerge in hot water — cardiac arrest risk.\n\n**5. Handle gently.** Severe hypothermia patients can have arrhythmias triggered by rough movement.\n\n**6. Watch breathing.** If absent or only gasping → CPR. Continue much longer than usual; \"they're not dead until they're warm and dead\" is the EM mantra.\n\n**Do NOT:**\n- Give alcohol. It makes hypothermia much worse.\n- Massage / rub limbs.\n- Apply direct intense heat (heater, fire, hot water bath).\n- Allow the patient to walk if severely affected — exertion can cause collapse.\n\n**For frostbite (numb white/grey patches on extremities):**\n- Get to shelter.\n- Re-warm in warm (not hot) water (37–39°C).\n- Don't rub. Don't refreeze (which is worse than leaving it frozen until you can re-warm permanently).\n- ER review even after re-warming — tissue damage is often invisible.\n\n**Helplines:** 115, 1122. Call them especially if the patient is unconscious, very young, very old, or stranded outdoors.\n\n⚠️ **Medical Disclaimer:** This is basic first-aid guidance only. For serious injuries or medical emergencies, call **115** or **1122** immediately. Do not attempt procedures beyond your training.",
+      "searchable_text": "first aid hypothermia cold winter gilgit ajk frostbite shivering re-warming pakistan flood snowstorm",
+      "sources": [
+        {
+          "name": "World Health Organization",
+          "url": "https://www.who.int"
+        },
+        {
+          "name": "Red Cross First Aid",
+          "url": "https://www.redcross.org/take-a-class/first-aid"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": true,
+      "topic": "first_aid"
+    },
+    {
+      "id": "first_aid.during.diabetic_emergency.001",
+      "disaster_type": "general",
+      "phase": "during",
+      "title": "First aid — diabetic emergency (low blood sugar)",
+      "content": "⚠️ **If unsure whether someone's blood sugar is high or low, treat as low — too low is acutely life-threatening; too high evolves over hours.**\n\n**Pakistani context:** Type 2 diabetes is widespread. Hypoglycaemia (low blood sugar) is more often a first-aid emergency than hyperglycaemia.\n\n**Hypoglycaemia (low blood sugar) — the acute first-aid emergency:**\n\nRecognise:\n- Sudden onset shakiness, sweating, pale skin.\n- Confusion, slurred speech, irritability.\n- Hunger, weakness.\n- Rapid heartbeat.\n- In severe cases: seizures, loss of consciousness.\n- Trigger often: missed meal, extra exercise, alcohol, or insulin/medication overdose.\n\n**If conscious and able to swallow:**\n\n**1. Sugar fast.** Give:\n- 15 g of fast-acting sugar — 3 teaspoons of sugar in water, half a glass of fruit juice, 4–5 dates, 3 glucose tablets, or one tablespoon of honey.\n- NOT chocolate / paan / nuts initially — fat slows absorption.\n\n**2. Wait 15 minutes. Recheck.** If still symptomatic, repeat the 15 g of sugar.\n\n**3. Once stabilised:** give a longer-acting carbohydrate — roti, paratha, biscuit with milk — so they don't crash again.\n\n**If unconscious or unable to swallow:**\n\n**1. DO NOT put food or liquid in their mouth.** Aspiration / choking risk.\n\n**2. Call 115 / 1122 immediately.**\n\n**3. Place in recovery position (on side).**\n\n**4. If a glucagon kit is available** (some diabetic patients carry one), follow the package instructions. This is an injection and works without swallowing.\n\n**5. Stay until paramedics arrive.**\n\n**Hyperglycaemia (high blood sugar):**\n\nComes on slowly over hours/days:\n- Excessive thirst, frequent urination.\n- Fruity breath (acetone smell).\n- Fatigue, nausea, vomiting.\n- Deep rapid breathing.\n- Confusion progressing to coma in severe DKA (diabetic ketoacidosis).\n\nIf suspected: call ambulance, encourage water intake if conscious, do NOT give insulin yourself.\n\n**General principles for any diabetic emergency:**\n- Check for medical ID bracelets.\n- Note medications (insulin name, dose, last dose time) for the ambulance team.\n- Sugar bracelets / candy in the bedside drawer is a low-tech intervention that has saved lives.\n\n**Helplines:** 115, 1122, nearest hospital.\n\n⚠️ **Medical Disclaimer:** This is basic first-aid guidance only. For serious injuries or medical emergencies, call **115** or **1122** immediately. Do not attempt procedures beyond your training.",
+      "searchable_text": "first aid diabetic emergency hypoglycaemia low blood sugar insulin dates juice glucagon dka pakistan",
+      "sources": [
+        {
+          "name": "World Health Organization",
+          "url": "https://www.who.int"
+        },
+        {
+          "name": "American Heart Association",
+          "url": "https://www.heart.org"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": true,
+      "topic": "first_aid"
+    },
+    {
+      "id": "first_aid.during.seizure.001",
+      "disaster_type": "general",
+      "phase": "during",
+      "title": "First aid — seizure response",
+      "content": "⚠️ **Most seizures stop on their own within 1–3 minutes. Call 115 or 1122 if it lasts longer than 5 minutes, repeats, or the person doesn't fully recover.**\n\n**Recognise a seizure:**\n- Sudden loss of consciousness.\n- Generalised stiffening followed by rhythmic jerking of limbs.\n- Possibly biting tongue, drooling, brief loss of bladder control.\n- Eyes may roll back; breathing may pause briefly.\n- Some seizures are subtle: blank stare, lip smacking, repetitive movements with no response — also need attention.\n\n**During the seizure — DO:**\n\n**1. Time it.** Look at the clock the moment it starts.\n\n**2. Protect from injury.** Move sharp objects, furniture corners, hot drinks away. Cushion the head with something soft (rolled cloth, jacket).\n\n**3. Loosen tight clothing** around the neck.\n\n**4. Roll onto the side** if you can do so safely without forcing — this lets saliva drain and protects the airway. If they're stiff, just protect the head and wait for the jerking to stop.\n\n**5. Stay with them.** Talk calmly. Don't leave them alone.\n\n**During the seizure — DO NOT:**\n\n- **Do NOT put anything in the mouth.** No spoon, no wallet, no fingers. The \"swallowing the tongue\" myth has caused broken teeth and bitten rescuers.\n- Do NOT restrain limbs. Hold the head softly to prevent floor injury, but don't pin arms / legs.\n- Do NOT splash water on them or try to \"wake them up.\"\n- Do NOT give food or water until they are fully alert.\n\n**After the seizure — postictal phase (5–30 minutes):**\n- Confusion, drowsiness, slow speech are normal.\n- Place in recovery position.\n- Stay with them. Reassure quietly.\n- Don't give them anything to eat or drink until they're fully alert.\n- Note what happened — limb jerking pattern, duration, eye direction, biting / incontinence — this matters to the doctor.\n\n**Call 115 / 1122 if:**\n- It's their first seizure.\n- It lasts longer than 5 minutes.\n- They have a second seizure without recovering between.\n- They're injured during the seizure.\n- They're pregnant.\n- It happened in water.\n- They have diabetes (could be hypoglycaemia mimicking seizure).\n- They don't return to normal within 30 minutes.\n\n**For repeated seizures (status epilepticus):** sustained or recurring seizures are a true emergency. Lasting brain injury starts after about 30 minutes of continuous seizure activity. Get to a hospital immediately.\n\n**For known epilepsy patients:**\n- Some carry an emergency med (rectal diazepam / midazolam) — follow the family / patient's emergency plan.\n- A medical ID bracelet helps responders.\n\n**Helplines:** 115, 1122.\n\n⚠️ **Medical Disclaimer:** This is basic first-aid guidance only. For serious injuries or medical emergencies, call **115** or **1122** immediately. Do not attempt procedures beyond your training.",
+      "searchable_text": "first aid seizure epilepsy convulsion postictal status epilepticus pakistan emergency",
+      "sources": [
+        {
+          "name": "World Health Organization",
+          "url": "https://www.who.int"
+        },
+        {
+          "name": "Red Cross First Aid",
+          "url": "https://www.redcross.org/take-a-class/first-aid"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": true,
+      "topic": "first_aid"
+    },
+    {
+      "id": "first_aid.during.anaphylaxis.001",
+      "disaster_type": "general",
+      "phase": "during",
+      "title": "First aid — anaphylaxis (severe allergic reaction)",
+      "content": "⚠️ **Anaphylaxis is a true emergency. If suspected: call 115 / 1122 IMMEDIATELY, give epinephrine if available, lay flat, watch breathing.**\n\n**Recognise anaphylaxis (rapid onset, usually within minutes of exposure):**\n\n**Skin:**\n- Widespread hives, itching, flushing.\n- Swelling of face, lips, tongue, throat.\n\n**Breathing:**\n- Wheezing, shortness of breath.\n- Hoarse voice, tight throat, difficulty swallowing.\n- Stridor (high-pitched noise on inhalation) — particularly dangerous.\n\n**Circulation:**\n- Rapid weak pulse.\n- Pallor, sweating.\n- Dizziness, lightheadedness.\n- Loss of consciousness.\n\n**Other:**\n- Nausea, vomiting, abdominal cramps, diarrhoea.\n- Sense of impending doom (patient may say \"I feel like I'm going to die\").\n\n**Common Pakistani triggers:**\n- Wasp / hornet / honeybee stings (especially common in summer in northern areas).\n- Certain antibiotics (penicillin family) — frequently the trigger in Pakistani healthcare settings.\n- Peanuts, tree nuts, seafood.\n- Latex (gloves, balloons in older formulations).\n\n**First aid:**\n\n**1. CALL 115 or 1122 IMMEDIATELY.** Don't wait. Anaphylaxis can kill in 15–30 minutes.\n\n**2. Epinephrine (adrenaline auto-injector) if available:**\n- EpiPen / Auvi-Q / similar — inject into the outer thigh, hold for 10 seconds.\n- Through clothing is fine in an emergency.\n- A second dose can be given after 5–15 minutes if symptoms don't improve.\n- Note the time of injection — paramedics need to know.\n\n**3. Position:**\n- Lie flat with legs raised (helps blood return to the heart).\n- If breathing is severely impaired, sit them up slightly.\n- If unconscious but breathing, recovery position.\n- Pregnant patients: lie on left side.\n\n**4. Loosen tight clothing.**\n\n**5. If known cause is still in contact** (insect stinger embedded, food still in mouth):\n- Stinger: scrape off with a credit card edge. Don't squeeze — squeezes more venom in.\n- Food: rinse mouth with water if conscious; don't induce vomiting.\n\n**6. CPR if the heart stops.** Continue until paramedics arrive.\n\n**Watch for biphasic reaction:** symptoms can come back hours after they initially improve. Anaphylaxis patients need ER observation for at least 6 hours, ideally overnight, even if they seem fine after the first dose.\n\n**Pakistani healthcare context:**\n- Many smaller hospitals stock adrenaline ampoules but not auto-injectors. ER staff will give IM adrenaline.\n- Some patients with known severe allergies carry pre-filled syringes — check the bag/wallet.\n- Patients with prior episodes should have a written emergency action plan.\n\n**Prevention going forward:**\n- Identify the trigger via allergist (skin test or specific IgE blood test).\n- Carry an auto-injector if prescribed.\n- Medical ID bracelet listing the allergy.\n- Avoid the trigger; teach family/colleagues to recognise symptoms.\n\n**Helplines:** 115, 1122.\n\n⚠️ **Medical Disclaimer:** This is basic first-aid guidance only. For serious injuries or medical emergencies, call **115** or **1122** immediately. Do not attempt procedures beyond your training.",
+      "searchable_text": "first aid anaphylaxis allergic reaction epinephrine epipen wasp bee penicillin peanut food allergy pakistan",
+      "sources": [
+        {
+          "name": "World Health Organization",
+          "url": "https://www.who.int"
+        },
+        {
+          "name": "American Heart Association",
+          "url": "https://www.heart.org"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": true,
+      "topic": "first_aid"
+    },
+    {
+      "id": "first_aid.during.wound_infection.001",
+      "disaster_type": "general",
+      "phase": "during",
+      "title": "First aid — wound care and infection prevention",
+      "content": "**Most disaster wounds — flood cuts, post-quake debris injuries, road-accident scrapes — get infected because they're contaminated. Good wound care in the first 24 hours prevents most of those infections.**\n\n**Initial care (within minutes to hours):**\n\n**1. Stop bleeding first.** Direct pressure with a clean cloth. See the bleeding-control card for severe bleeds.\n\n**2. Wash your hands** before touching the wound. Soap + clean water. If no clean water, use alcohol-based sanitiser.\n\n**3. Irrigate the wound.** This is the single most important infection-prevention step.\n- Clean (drinking-quality) water under moderate pressure for at least 1–2 minutes.\n- A syringe without needle, a squeeze bottle, or a clean plastic bag with a small hole all work.\n- Don't pour antiseptic into a deep wound — it irritates tissue. Wash with water; antiseptic on the edges only.\n\n**4. Remove visible debris with clean tweezers** (clean = washed with soap and water and rinsed). Don't dig for embedded objects — that's an ER job.\n\n**5. Apply a clean dressing.** Sterile gauze ideally; a clean cotton cloth if not.\n\n**6. Tetanus.** Any wound is a tetanus risk in Pakistan. If your last booster is more than 5 years ago, OR you can't remember, OR the wound is deep/dirty, get a tetanus shot at the nearest BHU / RHC / DHQ within 24 hours.\n\n**Watch for infection (24–72 hours):**\n\nSigns:\n- Redness expanding from the wound edge.\n- Increasing pain (not decreasing).\n- Swelling.\n- Warmth around the wound.\n- Pus or yellow/green discharge.\n- Bad smell.\n- Red streaks running from the wound up the limb.\n- Fever.\n- Swollen lymph nodes near the wound.\n\n**If any of these:** see a doctor same-day. Antibiotics may be needed.\n\n**Daily wound care until healed:**\n- Once daily wash with clean water and mild soap.\n- Pat dry (don't rub).\n- Apply a thin layer of antibiotic ointment if available (Bactroban, Fucidin, Polyfax — all available at Pakistani pharmacies).\n- Fresh dressing.\n- Watch for signs of infection.\n\n**For specific wound types:**\n\n**Animal bites (dog, cat, rat — common after floods):**\n- Wash thoroughly for 15 minutes.\n- See a hospital. Rabies is endemic in Pakistan — anti-rabies vaccine is required. Call NIH (National Institute of Health) for guidance.\n- Tetanus booster.\n\n**Snake bite:** see the snake-bite first aid card. Wound care is secondary to anti-venom.\n\n**Burns:** see the burns first aid card. Wound care is different.\n\n**Puncture wounds (nail, glass):**\n- Hard to clean fully. Get medical evaluation.\n- Higher infection risk.\n\n**Wounds contaminated with flood water:**\n- Wash thoroughly.\n- See a doctor — flood water carries cholera, leptospirosis, and other pathogens.\n\n**Helplines:** 115, 1122, nearest BHU / RHC / DHQ for tetanus.\n\n⚠️ **Medical Disclaimer:** This is basic first-aid guidance only. For serious injuries or medical emergencies, call **115** or **1122** immediately. Do not attempt procedures beyond your training.",
+      "searchable_text": "first aid wound infection irrigation tetanus rabies dog bite flood pakistan antibiotic dressing care",
+      "sources": [
+        {
+          "name": "World Health Organization",
+          "url": "https://www.who.int"
+        },
+        {
+          "name": "Red Cross First Aid",
+          "url": "https://www.redcross.org/take-a-class/first-aid"
+        },
+        {
+          "name": "Pakistan Red Crescent",
+          "url": "https://prcs.org.pk"
+        }
+      ],
+      "last_verified": "2026-05-08",
+      "disclaimer": true,
+      "topic": "first_aid"
+    }
+  ]
+}

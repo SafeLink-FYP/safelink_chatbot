@@ -1,0 +1,112 @@
+{
+  "greetings": {
+    "default": "Hello! I'm the **SafeLink Safety Assistant**, here to help you with disaster safety and emergency information for Pakistan.\n\n**I can help with:**\n- Disaster Safety — Earthquake, Flood, Heatwave, Fire, Cyclone, Building Collapse\n- Emergency Helplines — Federal & provincial contacts (1122, 115, 15, 16, NDMA, PDMAs)\n- First Aid — Bleeding, CPR, burns, snake bite, electric shock, heat stroke\n- Evacuation & Shelter — What to do, where to go\n- Donation & Volunteering — Edhi, Chhipa, JDC, Red Crescent\n- Mental Health Support — Rozan, Umang, post-disaster counseling\n\nHow can I assist you today?",
+    "returning": "Welcome back! How can I help you stay safe today?",
+    "variants": [
+      "Hi there! I'm your disaster safety assistant for Pakistan. What would you like to know?",
+      "Hello! I can help with disaster preparedness and emergency information. What do you need?",
+      "Greetings! I'm here to provide safety guidance for Pakistan. How may I assist?"
+    ]
+  },
+  "farewell": {
+    "default": "Stay safe! Quick reminders:\n- Save **1122**, **115**, **15**, **16** in your phone\n- Keep an emergency kit ready\n- Know your nearest evacuation route\n- Share helpline numbers with family\n\nFeel free to return anytime. Take care!",
+    "variants": [
+      "Goodbye! Stay prepared and stay safe!",
+      "Take care! Remember to share safety information with family and neighbours.",
+      "Bye for now! Preparedness saves lives. Stay safe!"
+    ]
+  },
+  "gratitude": {
+    "default": "You're welcome! I'm glad I could help. Is there anything else you'd like to know about disaster safety or emergency preparedness?",
+    "variants": [
+      "Happy to help! Stay safe — don't hesitate to ask if you have more questions.",
+      "You're welcome! Being prepared is the best protection. Anything else I can help with?",
+      "I'm glad the information was helpful! Feel free to ask more questions anytime."
+    ]
+  },
+  "fallback": {
+    "default": "I'm not entirely sure about that specific query, but I'm here to help with disaster safety and emergency information for Pakistan.\n\n**I can help with:**\n- Safety guidelines for earthquakes, floods, heatwave, fire, cyclones\n- Emergency helpline numbers (federal & provincial)\n- First aid information\n- Evacuation and shelter guidance\n- Donation and volunteering for victims\n- Mental health support after disasters\n\nCould you rephrase your question, or tell me which disaster or topic you'd like information about?",
+    "low_confidence": "I want to make sure I give you accurate information. Could you please:\n\n1. Specify the type of disaster or emergency you're asking about?\n2. Or let me know which province / city you need helpline information for?\n\nFor immediate emergencies, please call **1122** or **115**.",
+    "out_of_scope": "I'm designed to help with disaster safety and emergency information for Pakistan. Unfortunately, I can't assist with that particular request.\n\n**However, I can help you with:**\n- Natural disaster safety (earthquake, flood, heatwave, cyclone, fire)\n- Pakistan-specific emergency contact numbers\n- First aid basics\n- Evacuation guidance\n- Mental health support post-disaster\n\nIs there anything disaster-related I can help you with?"
+  },
+  "emergency_detected": {
+    "default": "🚨 **EMERGENCY DETECTED**\n\nIf you or someone is in immediate danger:\n\n1. **Call emergency services NOW:** {emergency_number}\n2. Stay as calm as possible\n3. Follow instructions from emergency responders\n\n{specific_guidance}\n\n**Key Emergency Numbers:**\n{helplines}\n\nI'm here to help. What's the situation?",
+    "follow_up": "Are you safe now? Is there specific guidance you need?"
+  },
+  "safety_disclaimer": {
+    "first_aid": "⚠️ **Medical Disclaimer:** This is basic first-aid information only. It does not replace professional medical advice. For serious injuries or medical emergencies, call **115** or **1122** immediately. Do not attempt procedures beyond your training.",
+    "legal": "⚠️ **Disclaimer:** This information is for general guidance only and does not constitute legal advice. For specific legal matters, please consult appropriate authorities or legal professionals.",
+    "general": "⚠️ **Note:** This guidance is based on verified sources but may not cover all situations. Always follow instructions from local emergency services and authorities."
+  },
+  "disclaimers": {
+    "first_aid_v2": "⚠️ **Medical Disclaimer:** This is basic first-aid guidance based on verified sources (Pakistan Red Crescent, AHA, WHO). It does not replace professional medical advice. For serious injuries call 115 or 1122 immediately. Do not attempt procedures beyond your training.",
+    "mental_health_v2": "⚠️ **Note:** This is supportive guidance, not medical treatment. For active suicide-risk crises call 115 immediately. Persistent or worsening symptoms need a qualified mental-health professional — Rozan 0304-111-1741, Umang 0311-7786264 (24/7, but NOT for actively suicidal cases)."
+  },
+  "shelter_info": {
+    "generic": "**For shelter and evacuation information in Pakistan:**\n\n1. **Contact local authorities** — district administration, NDMA (051-9205037), or your provincial PDMA\n2. **Listen to emergency broadcasts** — PTV, FM 101, local radio for shelter locations\n3. **Check official channels** — NDMA / PDMA Twitter/Facebook, district websites\n\n**General shelter tips:**\n- Shelters are usually set up in government schools, colleges, community halls, sports complexes\n- Bring your emergency kit, medications, CNIC and important documents\n- Register at the shelter for tracking purposes\n- Pakistan Army / Rangers / FC often coordinate shelter operations during major disasters\n\nWould you like the helpline number for your province?",
+    "prompt_location": "To provide specific shelter information, I'll need to know your city or province. In the meantime, please contact your nearest district disaster management cell or call **1122**."
+  },
+  "evacuation_route": {
+    "generic": "**Evacuation Guidance:**\n\n1. **Don't wait for an official order** if you see imminent danger (rising water, fire, collapse risk)\n2. **Take only essentials** — CNIC, phone + charger, cash, medications, water, sturdy shoes\n3. **Move to higher ground** for floods; **away from buildings** for earthquakes; **upwind** of fires/gas leaks\n4. **Use main roads** if you can — avoid narrow streets, underpasses, bridges over flooded rivers\n5. **Stay together** as a family group; assign one person to keep emergency contacts handy\n6. **Tell someone outside the area** where you're going\n\n**Don't:**\n- Drive into floodwater (just 60 cm can sweep a car)\n- Use elevators during fire/earthquake\n- Return until authorities declare it safe\n\nFor real-time updates, follow your provincial PDMA on social media."
+  },
+  "weather_info": {
+    "generic": "I don't have real-time weather data, but for Pakistan you can check:\n\n**Official Sources:**\n- **Pakistan Meteorological Department (PMD)** — pmd.gov.pk\n- **Flood Forecasting Division** — 042-99200296\n- **NDMA** — ndma.gov.pk\n- **Provincial PDMA** social media accounts\n\n**Severe-Weather Seasons in Pakistan:**\n- **Monsoon:** July–September (flooding, urban inundation)\n- **Heatwave:** May–June (especially Sindh, southern Punjab)\n- **Winter snow / avalanches:** December–February (GB, AJK, Northern KPK)\n- **Cyclone window:** May–June and Oct–Nov (coastal Sindh/Balochistan)\n\nIs there specific weather-related safety information you need?"
+  },
+  "report_incident": {
+    "default": "**To report an incident or emergency in Pakistan:**\n\n1. **Immediate emergency:** call {emergency_number} (Rescue 1122) or **115** (Edhi)\n\n2. **Non-emergency reports:**\n   - Local police station (or **15**)\n   - District disaster management cell\n   - Provincial PDMA helpline\n   - SafeLink in-app incident report\n\n**When reporting, provide:**\n- Your location (city, neighbourhood, landmark)\n- Type of incident (fire, flood, accident, structural collapse, gas leak)\n- Number of people affected (if known)\n- Any immediate dangers (live wires, gas leak, blocked exit)\n\nWould you like the helpline numbers for your province?",
+    "acknowledged": "Thank you for reporting this. Here's what to do next:\n\n1. If not done yet, call emergency services: {emergency_number}\n2. Stay safe and keep distance from danger\n3. Help others evacuate if it's safe to do so\n4. Follow instructions from emergency responders\n\nIs there anything else I can help with?"
+  },
+  "donation_volunteering": {
+    "generic": "**Trusted disaster-relief organisations in Pakistan:**\n\n- **Edhi Foundation** — edhi.org / 115 / Bank Al Habib & HBL accounts on website\n- **Chhipa Welfare** — chhipa.org / 1020\n- **JDC Foundation** — jdcwelfare.org / 0311-1112400\n- **Saylani Welfare** — saylaniwelfare.com\n- **Pakistan Red Crescent** — prcs.org.pk / 051-9250404\n- **Al-Khidmat Foundation** — alkhidmat.org\n- **Akhuwat** — akhuwat.org.pk (interest-free loans for victims)\n- **Shaukat Khanum** — shaukatkhanum.org.pk (medical aid)\n- **NDMA Citizen Donation** — ndma.gov.pk\n\n**To volunteer:**\n- Register with one of the above organisations during active relief operations\n- Pakistan Red Crescent and Edhi run regular volunteer training\n- Don't go independently to a disaster zone without coordination — it can hinder relief efforts\n\n**To donate effectively:**\n- Money is more useful than goods (organisations buy locally)\n- Avoid sending random clothes/food to disaster sites unless requested\n- Verify the organisation before donating online"
+  },
+  "mental_health": {
+    "generic": "**Mental health support after a disaster — it's normal to feel overwhelmed.**\n\nCommon reactions: anxiety, sleeplessness, intrusive thoughts, irritability, sadness, guilt. Most people recover with time, support, and self-care. Reach out if symptoms persist beyond a few weeks or worsen.\n\n**Free counseling lines in Pakistan:**\n- **Rozan Counseling Helpline** — 0304-1111741 (depression, trauma)\n- **Umang Helpline** — 0311-7786264 (youth-focused)\n- **Taskeen** — taskeen.org (online resources)\n\n**Self-care basics:**\n- Talk to family or trusted friends\n- Keep a routine — regular meals, sleep\n- Limit news/social media exposure\n- Light exercise / walking helps\n- Religious or community practices, if they help you\n\n**Seek professional help if:**\n- Thoughts of self-harm or suicide → call **115** immediately\n- Inability to function for more than 2 weeks\n- Severe panic, flashbacks, or numbness"
+  },
+  "quick_tips": {
+    "earthquake": "🏠 **Quick Earthquake Tips (Pakistan):**\nDROP, COVER, HOLD ON | Stay away from windows | Don't run outside during shaking | Call **1122** or **115** | Expect aftershocks",
+    "flood": "🌊 **Quick Flood Tips (Pakistan):**\nMove to higher ground | Never walk/drive through flood water (60 cm sweeps a car) | Call **1122** or **115** | NDMA: **051-9205037** | Watch for snakes & live wires after water recedes",
+    "heatwave": "🌡️ **Quick Heatwave Tips:**\nStay indoors 11 AM–4 PM | Drink water every 15 min, even if not thirsty | ORS for outdoor workers | Cool with wet cloth on neck/wrists | Heat stroke = call **115** immediately",
+    "fire": "🔥 **Quick Fire Tips:**\nGET OUT, STAY OUT | Crawl under smoke (cleaner air below) | Stop, Drop, Roll if clothes catch fire | Never use elevator | Call **16** (Fire) or **1122**",
+    "cyclone": "🌀 **Quick Cyclone Tips (Coastal Sindh/Balochistan):**\nFollow PMD / PDMA evacuation orders | Move inland & upward | Stay indoors away from windows | Don't go out during the calm 'eye' of storm | Call **1122**",
+    "tsunami": "🌊 **Quick Tsunami Tips (Coastal areas):**\nIf you feel a strong earthquake near the coast → move to high ground IMMEDIATELY | Don't wait for official warning | Stay there until authorities all-clear",
+    "snake_bite": "🐍 **Quick Snake-Bite Tips:**\nKeep the person still & calm | Remove rings/watches before swelling | Don't cut, suck, or apply tourniquet | Note snake colour/length if safe | Rush to nearest hospital — anti-venom needed | Call **1122**",
+    "gas_leak": "⛽ **Quick Gas-Leak Tips:**\nDO NOT switch on/off any electrical | Don't light matches | Open windows & doors | Evacuate everyone | Call **1199** (SSGC/SNGPL) from a safe distance",
+    "building_collapse": "🏚️ **Quick Building-Collapse Tips:**\nIf trapped: stay calm, cover mouth/nose, tap on pipes/walls (don't shout — saves oxygen) | Outside: don't enter — wait for Rescue 1122 | Note exact location of trapped people for responders",
+    "electric_shock": "⚡ **Quick Electric-Shock Tips:**\nNEVER touch the person while connected to power | Switch off main breaker first | Use a dry wooden stick to push the source away | Once safe → check breathing, start CPR if needed | Call **115**",
+    "pandemic": "😷 **Quick Pandemic Tips:**\nWash hands frequently | Wear masks in crowds | Maintain distance | Get vaccinated | Follow official health advisories from NIH Pakistan"
+  },
+  "suggestions": {
+    "after_safety_advice": [
+      "Emergency helplines for my province",
+      "How to prepare an emergency kit",
+      "What to do after {disaster_type}",
+      "First aid basics"
+    ],
+    "after_helplines": [
+      "Safety tips for {disaster_type}",
+      "How to prepare for disasters",
+      "What to include in an emergency kit"
+    ],
+    "first_aid": [
+      "How to control bleeding",
+      "Basic CPR steps",
+      "First aid for burns",
+      "Snake bite first aid",
+      "Heat stroke treatment"
+    ],
+    "evacuation": [
+      "Where is the nearest shelter?",
+      "What to pack for evacuation",
+      "How to evacuate with elderly / children",
+      "Helpline for my province"
+    ],
+    "general": [
+      "Earthquake safety tips",
+      "Flood preparedness",
+      "Heatwave safety",
+      "Emergency kit essentials",
+      "First aid for burns",
+      "Pakistan emergency numbers"
+    ]
+  }
+}
